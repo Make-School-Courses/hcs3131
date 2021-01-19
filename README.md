@@ -60,21 +60,21 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |  Assigned Readings          |
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|
 |  1 |  Fri, Jan 22               | [Lesson 1] |  [Reading 1]  |
-|  2 |  Fri, Jan 29               | [Lesson 2] |
-|  3 |  Fri, Feb 5                | [Lesson 3] |
-|  4 |  Fri, Feb 12               | [Lesson 4] |
-|  5 |  Fri, Feb 19               | [Lesson 5] |
-|  6 |  Fri, Feb 26               | [Lesson 6] |
-|  7 |  Fri, Mar 5                | [Lesson 2] |
+|  2 |  Fri, Jan 29               | [Lesson 2] |[Reading 2]  |
+|  3 |  Fri, Feb 5                | [Lesson 3] |[Reading 3]  |
+|  4 |  Fri, Feb 12               | [Lesson 4] |[Reading 4]  |
+|  5 |  Fri, Feb 19               | [Lesson 5] |[Reading 5]  |
+|  6 |  Fri, Feb 26               | [Lesson 6] |[Reading 6]  |
+|  7 |  Fri, Mar 5                | [Lesson 7] |[Reading 7]  |
 | -  |  Fri, Mar 12               | **No Class - Spring Break** |
 | 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |
-| 9 |   Fri, Mar 26               | [Lesson 13] |
+| 9 |   Fri, Mar 26               | [Lesson 8] |[Reading 8]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | [Lesson 4] |
-| 11 |  Fri, Apr 16               | [Lesson 7] |
-| 12 |  Fri, Apr 23               | [Lesson 10] |
-| 13 |  Fri, Apr 30               | [Lesson 13] |
-| 14 |  Fri, May 7                | [Lesson 14] |
+| 10 |  Fri, Apr 9                | [Lesson 9] |[Reading 9]  |
+| 11 |  Fri, Apr 16               | [Lesson 10] |[Reading 10]  |
+| 12 |  Fri, Apr 23               | [Lesson 11] |[Reading 11]  |
+| 13 |  Fri, Apr 30               | [Lesson 12] |[Reading 12]  |
+| 14 |  Fri, May 7                | [Lesson 13] |[Reading 13]  |
 | 15 |  Fri, May 14                | Podcasts/Presentations  |
 
 
@@ -103,16 +103,41 @@ By the end of the course, you will be able to ...
 [Lesson 19]: Lessons/Lesson14.md
 [Lesson 20]: Lessons/Lesson14.md
 [Reading 1]:Reading/reading1.md
+[Reading 2]:Reading/reading2.md
+[Reading 3]:Reading/reading3.md
+[Reading 4]:Reading/reading4.md
+[Reading 5]:Reading/reading5.md
+[Reading 6]:Reading/reading6.md
+[Reading 7]:Reading/reading7.md
+[Reading 8]:Reading/reading8.md
+[Reading 9]:Reading/reading9.md
+[Reading 10]:Reading/reading10.md
+[Reading 11]:Reading/reading11.md
+[Reading 12]:Reading/reading12.md
+[Reading 13]:Reading/reading13.md
+[Reading 14]:Reading/reading14.md
+
+
 
 ## Assignment Schedule
 All assignments are due **11.59pm PST** on the due date stated
 
-| Assignment |          Date Assigned          |                 Due Date                           |
-|:-----:|:----------------------:|:----------------------------------------------:|
-|  [Assignment 1]              | Fri, Feb 22 |      Fri, Feb 29     |
+| Assignment            |          Date Assigned        |                 Due Date                           |
+|:------------------------------:|:----------------------:|:----------------------------------------:|
+|  [Mentorship Agreement]              | Fri, Jan 22 |      Fri, Jan 29     |
+|  [Assignment 1]              | Fri, Feb 19 |      Fri, Feb 26     |
+|  [Assignment 2]              | Fri, April 9   | Fri, April 23   |
+|  [Assignment 3]              | Fri, April 23   | Fri, April 30   |
+|  [Assignment 4]              | Fri, March 5   | Fri, March 26: 25% outline; Fri, April 14: 75% Final Podcast   |
+
+[Mentorship Agreement]:(https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing)
+[Assignment 1]:(assignment/assignment1.md)
+[Assignment 2]:(assignment/assignment2.md)
+[Assignment 3]:(assignment/assignment3.md)
+[Assignment 4]:(assignment/assignment4.md)
 
 
-[Assignment 1]:(https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing)
+
 ## Class Assignments
 
 We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
@@ -138,8 +163,8 @@ To pass this course you must meet the following requirements:
 |**Participation**: Attendance, active participation in zoom and in class google docs; online assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
 |**Critical Response Papers**: Students will write two critical response papers based on their interactions during their mentorships. Students are expected to meet a minimum score of 3 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  20%  |  3  |
 |**Mentorship meetings**: Students must participate in 3 virtual meetings with students at Balboa High School in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings. See [Mentorship Agreement](https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing). |  20%  |  N/A  |
-|**Midterm Passion Project**: Students create a mini presentation on an application or website they are currently building. Students will present the project to their High School mentees, discuss and create a final pitch.   Students are expected to meet a minimum score of 3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  25%  |  3  |
-|**Final Podcast**: Group Podcast on a topic discussed by one of the guest speakers in relation to class readings.  Students are expected to meet a minimum score of 3 on the [Critical Thinking Rubric](https://docs.google.com/document/d/1GyrVCyYP9A7CnJoU7edECs4hXXy4n3sbHSfRO7LG7MA/edit?usp=sharing) |  25%  |  3  |
+|**Midterm Passion Project**: Students create a mini presentation on an application or website they are currently building. Students will present the project to their High School mentees, discuss and create a final pitch.   Students are expected to meet a minimum score of 3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  3  |
+|**Final Podcast**: Group Podcast on a topic discussed by one of the guest speakers in relation to class readings.  Students are expected to meet a minimum score of 3 on the [Critical Thinking Rubric](https://docs.google.com/document/d/1GyrVCyYP9A7CnJoU7edECs4hXXy4n3sbHSfRO7LG7MA/edit?usp=sharing) |  30%  |  3  |
 
 ***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
 
