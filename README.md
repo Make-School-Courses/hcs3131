@@ -12,19 +12,26 @@
 
 This course will investigate the relevance of gender, race and sexuality to understanding equity in technology and the development of new technologies. We will consider a range of questions including: What are some barriers in equity in Computer Science education? And how does an organization promote or impede inequality? In addition, this course will utilize methodologies which promote engagement with local communities to enhance civic knowledge and improve student civic skills.
 
-### Core Curriuculum Requirement
+### Core Curriculum Requirement
 
 Technology and Equity satisfies one of Science and Letters course categories required for a bachelor’s degree. A final grade of “PASS” is required.
-
-## Prerequisites:  
-
-- [None]
 
 
 ## Course Specifics
 
+**Zoom link**: [make.sc/justine-zoom](make.sc/justine-zoom)
 
-**Course Delivery**: online | 17 sessions
+**Slack Channel**: #hcs3131sp2021
+This platform will be used for Q&As during check-in activities and burning questions your classmates can help clarify, e.g., “Where is the teaching slides?” or “What time is class again?”
+
+**My Personal Slack**: @justinemeyr
+
+If you have questions your classmates and TA (@Tyler HOlland) have no answers to, e.g., “Am I on track to pass the course?” and/or emergency requests, e.g., “I have to leave class because of a fire.” DM me on slack.
+
+You can expect a reply from me within 24-hours; Likewise, I expect a response from you within 24-hours if I messaged you about something important personally.
+
+**My Email**:justine@makeschool.com
+**Course Delivery**: online | 15 sessions
 
 **Course Credits**: 4 units
 
@@ -96,7 +103,8 @@ By the end of the course, you will be able to ...
 [Lesson 20]: Lessons/Lesson14.md
 
 
-
+## Assignment Schedule
+All assignments are due **11.59pm PST** on the due date stated
 
 ## Class Assignments
 
@@ -107,11 +115,6 @@ As soon as grades are posted, you will be notified immediately so that you can l
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
 
-
-### Projects
-
-- [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
-
 ## Evaluation
 
 
@@ -121,6 +124,14 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 - Participate in the Mentorship component of the course
+
+***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
+
+Make School nurtures attitudes and behaviors that promote global awareness, inclusivity, and respect for the dignity of each person regardless of race, ethnicity, gender, sexual orientation, age, socioeconomic status, culture, political conviction, religion, or disability. We are committed to creating an environment in which every individual can work, study, and live without feeling excluded, unsafe, or harassed.
+
+During classrooms discussions, you may encounter opposing and different views with your classmates, and that is totally fine. In fact, I welcome a diverse array of opinions. Part of a healthy discussion is being able to discuss those differences clearly and respectfully. Sometimes, you may think your classmates’ questions are “stupid,” but they deserve the same level of respect from you as you wish from them. You can expect me to be fair, and I will not tolerate any hate speech (e.g. any attacks on another person’s identity, background, life experiences) in class. If the need arises, I will respectfully ask you to leave the discussion/zoom room.
+
+Make School’s desire to foster a professional environment that honors the freedom of expression is equally balanced with pursuit to create an inclusive living and learning environment.
 
 ##  Information Resources
 
