@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Title
+# Technology and Equity
 
 ### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
 
@@ -27,7 +27,7 @@ Explain why students should care to learn the material presented in this class.
 
 **Course Delivery**: online / hybrid / residential | 7 weeks | 13 sessions
 
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours.
 
 ## Learning Outcomes
 
@@ -96,8 +96,8 @@ Please pick from a template below and delete the other ones
 |  9 |  Thu, Feb 18               | [Lesson 9] |
 | 10 |  Tue, Feb 23               | [Lesson 10] |
 | 11 |  Thu, Feb 25                | [Lesson 11] |
-| 12 |  Tue, Mar 2                | [Lesson 12] | 
-| 13 |  Tue, Mar 4                | Final Exam/Presentations | 
+| 12 |  Tue, Mar 2                | [Lesson 12] |
+| 13 |  Tue, Mar 4                | Final Exam/Presentations |
 
 
 **SEMESTER Fri Template [PLEASE REMOVE THIS HEADER BEFORE JANUARY 17]**
@@ -234,8 +234,8 @@ Please pick from a template below and delete the other ones
 
 **Class Times:**
 
-- Tuesday, Thursday, at 12:30–1:45pm 
-- Wednesday at 1:30-2:30pm 
+- Tuesday, Thursday, at 12:30–1:45pm
+- Wednesday at 1:30-2:30pm
 - 44 class sessions
 
 | Class |          Date          |                 Topics                  |
@@ -268,7 +268,7 @@ Please pick from a template below and delete the other ones
 | 22 |  Wed, Mar 17               | [Lesson 8] |
 | 23 |  Thu, Mar 18               | [Lesson 9] |
 | 24 |  Tue, Mar 23               | [Lesson 11] |
-| 25 |  Wed, Mar 24               | [Lesson 11] 
+| 25 |  Wed, Mar 24               | [Lesson 11]
 | 26 |  Thu, Mar 25               | [Lesson 12] |
 | 27 |  Tue, Mar 30               | [Lesson 14] |
 | -  |  Wed, Mar 31               |  **No Class - Cesar Chavez**  |
@@ -390,7 +390,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 <!-- tabs:end -->
 
-## Assignment Schedule 
+## Assignment Schedule
 
 **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
 
@@ -423,7 +423,7 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments 
+- Complete all required assignments
 - Pass all projects according to the associated project rubric
 - Pass the final summative assessment according to the rubric as specified in this class
     - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
