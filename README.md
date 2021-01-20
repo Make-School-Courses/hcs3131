@@ -6,6 +6,7 @@
 
 # Technology and Equity
 
+![Diversity and Inclusion](Diversity.png)
 
 
 ## Course Description
@@ -41,7 +42,7 @@ You can expect a reply from me within 24-hours; Likewise, I expect a response fr
 
 By the end of the course, you will be able to ...
 
-1. IDemonstrate an elevated understanding of equity in education and technology
+1. Demonstrate an elevated understanding of equity in education and technology
 1. Enhance a critical understanding of intersectionality, including an awareness of gender and its complex intersections in relation to technology and computer science.
 1. Cultivate a language framework for thoughtfully articulating critical vocabulary and behaviours in relation to the field of gender, race, sexuality and women’s studies.
 1. Develop reading and writing skills through effective synthesis of written material. Practice conveying course concepts in a concise and clear manner both verbally and in writing.
@@ -124,13 +125,13 @@ All assignments are due **11.59pm PST** on the due date stated
 
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
-|  [Mentorship Agreement]              | Fri, Jan 22 |      Fri, Jan 29     |
+|  [Mentorship Agreement] and Presentation              | Fri, Jan 22 |      Fri, Jan 29     |
 |  [Assignment 1]              | Fri, Feb 19 |      Fri, Feb 26     |
 |  [Assignment 2]              | Fri, April 9   | Fri, April 23   |
 |  [Assignment 3]              | Fri, April 23   | Fri, April 30   |
 |  [Assignment 4]              | Fri, March 5   | Fri, March 26: 25% outline; Fri, April 14: 75% Final Podcast   |
 
-[Mentorship Agreement]:(https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing)
+[Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
 [Assignment 1]:(assignment/assignment1.md)
 [Assignment 2]:(assignment/assignment2.md)
 [Assignment 3]:(assignment/assignment3.md)
@@ -156,15 +157,15 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 - Participate in the Mentorship component of the course
--Complete all assignments with a minimum rubric score
+- Complete all assignments with a minimum rubric score
 
 | Assignments |          Weight         |                 Minimum Rubric Score                          |
 |:-----:|:----------------------:|:----------------------------------------------:|
 |**Participation**: Attendance, active participation in zoom and in class google docs; online assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
-|**Critical Response Papers**: Students will write two critical response papers based on their interactions during their mentorships. Students are expected to meet a minimum score of 3 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  20%  |  3  |
+|**Critical Response Papers**: Students will write two critical response papers based on their interactions during their mentorships. Students are expected to meet a minimum score of 2-3 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  20%  |  2-3  |
 |**Mentorship meetings**: Students must participate in 3 virtual meetings with students at Balboa High School in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings. See [Mentorship Agreement](https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing). |  20%  |  N/A  |
-|**Midterm Passion Project**: Students create a mini presentation on an application or website they are currently building. Students will present the project to their High School mentees, discuss and create a final pitch.   Students are expected to meet a minimum score of 3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  3  |
-|**Final Podcast**: Group Podcast on a topic discussed by one of the guest speakers in relation to class readings.  Students are expected to meet a minimum score of 3 on the [Critical Thinking Rubric](https://docs.google.com/document/d/1GyrVCyYP9A7CnJoU7edECs4hXXy4n3sbHSfRO7LG7MA/edit?usp=sharing) |  30%  |  3  |
+|**Midterm Passion Project**: Students create a mini presentation on an application or website they are currently building. Students will present the project to their High School mentees, discuss and create a final pitch.   Students are expected to meet a minimum score of 2-3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  2-3  |
+|**Final Podcast**: Group Podcast on a topic discussed by one of the guest speakers in relation to class readings.  Students are expected to meet a minimum score of 2-3 on the [Critical Thinking Rubric](https://docs.google.com/document/d/1GyrVCyYP9A7CnJoU7edECs4hXXy4n3sbHSfRO7LG7MA/edit?usp=sharing) |  30%  |  2-3  |
 
 ***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
 
