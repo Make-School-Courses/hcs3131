@@ -14,4 +14,3 @@
   - [Lesson 12](Lessons/Lesson1.md)
   - Final Class (Presentations, Demos, etc)
   - Final Exam/Presentations
-- **[Project](Assignments/Sample_Project.md)**
