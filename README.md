@@ -63,15 +63,15 @@ By the end of the course, you will be able to ...
 |  1 |  Fri, Jan 22               | [Introduction] |  [Assignment 1]  |
 |  2 |  Fri, Jan 29               | [Mentorship Meeting 1] |[Assigned reading and podcast]  |
 |  3 |  Fri, Feb 5                | [Diversity, Inclusion and Belonging] |[Reading 3]  |
-|  4 |  Fri, Feb 12               | [Guest Speaker Justin Samuels] |[Reading 4]  |
+|  4 |  Fri, Feb 12               | [Guest Speaker: Justin Samuels] |[Reading 4]  |
 |  5 |  Fri, Feb 19               | [Mentorship Meeting 2] |[Reading 5]  |
-|  6 |  Fri, Feb 26               | [Librarian Nnekay FitzClarke] |[Reading 6]  |
+|  6 |  Fri, Feb 26               | [Librarian: Nnekay FitzClarke] |[Reading 6]  |
 |  7 |  Fri, Mar 5                | [Microagressions Workshop] |[Reading 7]  |
 | -  |  Fri, Mar 12               | **No Class - Spring Break** |
 | 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |
 | 9 |   Fri, Mar 26               | [Mentorship Meeting 3] |[Reading 8]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | [Guest Speaker Christine Osazuwa] |[Reading 9]  |
+| 10 |  Fri, Apr 9                | [Guest Speaker: Christine Osazuwa] |[Reading 9]  |
 | 11 |  Fri, Apr 16               | [Disability Access and Technology] |[Reading 10]  |
 | 12 |  Fri, Apr 23               | [Gender in a Digital Space] |[Reading 11]  |
 | 13 |  Fri, Apr 30               | [Race and Gender in Gaming] |[Reading 12]  |
@@ -86,12 +86,12 @@ By the end of the course, you will be able to ...
 [Introduction]: https://docs.google.com/presentation/d/1JdgnzmMBhBa39sTSM0b6D-5HwQQLmUldL61owbNyvUc/edit?usp=sharing
 [Mentorship Meeting 1]: https://docs.google.com/document/d/1F7TBcSD-HIvzEE6FaenKgn05blPeLDIg6BW0A4mROtw/edit?usp=sharing
 [Diversity, Inclusion and Belonging]:
-[Guest Speaker Justin Samuels]: https://twitter.com/ThugDebugger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+[Guest Speaker: Justin Samuels]: https://twitter.com/ThugDebugger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 [Mentorship Meeting 2]:
-[Librarian Nnekay FitzClarke]: https://www.dominican.edu/directory-people/nnekay-fitzclarke
+[Librarian: Nnekay FitzClarke]: https://www.dominican.edu/directory-people/nnekay-fitzclarke
 [Microagressions Workshop]:
 [Mentorship Meeting 3]:
-[Guest Speaker Christine Osazuwa]:
+[Guest Speaker: Christine Osazuwa]:
 [Disability Access and Technology]:
 [Gender in a Digital Space]:
 [Race and Gender in Gaming]:
