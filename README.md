@@ -87,7 +87,7 @@ By the end of the course, you will be able to ...
 [Mentorship Meeting 1]: https://docs.google.com/document/d/1F7TBcSD-HIvzEE6FaenKgn05blPeLDIg6BW0A4mROtw/edit?usp=sharing
 [Diversity, Inclusion and Belonging]:
 [Guest Speaker-Justin Samuels]: https://twitter.com/ThugDebugger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-[Mentorship Meeting 2:
+[Mentorship Meeting 2]:
 [Librarian-Nnekay FitzClarke]:https://www.dominican.edu/directory-people/nnekay-fitzclarke
 [Lesson 7]:
 [Lesson 8]:
@@ -140,7 +140,7 @@ All assignments are due **11.59pm PST** on the due date stated
 
 ## Class Assignments
 
-We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+We will be using [Gradescope](https://www.gradescope.com/courses/235159), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
@@ -164,7 +164,7 @@ To pass this course you must meet the following requirements:
 |**Self Reflection Paper**: Students will give feedback and write one reflective paper based on their attendance at Balboa High School’s Test Flight Review. Students are expected to meet a minimum score of 2-3 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  10%  |  2-3  |
 |**Mentorship meetings**: Students must participate in 3 virtual meetings with students at [Balboa High School](https://www.sfusd.edu/school/balboa-high-school) in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  See [Mentorship Agreement](https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing). |  20%  |  N/A  |
 |**Presentations: Make School and Passion Project**: Students will present Make School to Balboa High School in a 20 minute presentation format in week 2 of class.  In week 9, students will present their intensive projects to Balboa High School students.   Students are expected to meet a minimum score of 2-3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  2-3  |
-|**Final Podcast**: Group Podcast on a topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 2-3 on the [Critical Thinking Rubric](https://docs.google.com/document/d/1GyrVCyYP9A7CnJoU7edECs4hXXy4n3sbHSfRO7LG7MA/edit?usp=sharing) |  40%  |  2-3  |
+|**Final Podcast**: Group Podcast on topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 2-3 on the [Critical Thinking Rubric](https://docs.google.com/document/d/1GyrVCyYP9A7CnJoU7edECs4hXXy4n3sbHSfRO7LG7MA/edit?usp=sharing) |  40%  |  2-3  |
 
 ***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
 
