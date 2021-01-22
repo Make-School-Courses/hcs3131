@@ -125,9 +125,7 @@ All assignments are due **11.59pm PST** on the due date stated
 
 [Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
 [Assignment 1]:https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
-[Assignment 2]:
-[Assignment 3]:
-[Assignment 4]:
+
 
 
 
