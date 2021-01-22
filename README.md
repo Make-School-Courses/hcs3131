@@ -85,31 +85,31 @@ By the end of the course, you will be able to ...
 
 [Introduction]: https://docs.google.com/presentation/d/1JdgnzmMBhBa39sTSM0b6D-5HwQQLmUldL61owbNyvUc/edit?usp=sharing
 [Mentorship Meeting 1]: https://docs.google.com/document/d/1F7TBcSD-HIvzEE6FaenKgn05blPeLDIg6BW0A4mROtw/edit?usp=sharing
-[Diversity, Inclusion and Belonging]:
+[Diversity, Inclusion and Belonging]:Lesson3.md
 [Guest Speaker: Justin Samuels]: https://twitter.com/ThugDebugger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-[Mentorship Meeting 2]:
+[Mentorship Meeting 2]:Lesson4.md
 [Librarian: Nnekay FitzClarke]: https://www.dominican.edu/directory-people/nnekay-fitzclarke
-[Microagressions Workshop]:
-[Mentorship Meeting 3]:
-[Guest Speaker: Christine Osazuwa]:
-[Disability Access and Technology]:
-[Gender in a Digital Space]:
-[Race and Gender in Gaming]:
-[Engineering Peace]:
+[Microagressions Workshop]:Lesson5.md
+[Mentorship Meeting 3]:Lesson6.md
+[Guest Speaker: Christine Osazuwa]:Lesson7.md
+[Disability Access and Technology]:Lesson8.md
+[Gender in a Digital Space]:Lesson9.md
+[Race and Gender in Gaming]:Lesson10.md
+[Engineering Peace]:Lesson11.md
 [Assignment 1]: https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
-[Assigned reading and podcast]:
-[Reading 3]:
-[Reading 4]:
-[Reading 5]:
-[Reading 6]:
-[Reading 7]:
-[Reading 8]:
-[Reading 9]:
-[Reading 10]:
-[Reading 11]:
-[Reading 12]:
-[Reading 13]:
-[Reading 14]:
+[Assigned reading and podcast]:Reading3.md
+[Reading 3]:Reading4.md
+[Reading 4]:Reading5.md
+[Reading 5]:Reading6.md
+[Reading 6]:Reading7.md
+[Reading 7]:Reading8.md
+[Reading 8]:Reading9.md
+[Reading 9]:Reading10.md
+[Reading 10]:Reading11.md
+[Reading 11]:Reading12.md
+[Reading 12]:Reading13.md
+[Reading 13]:Reading14.md
+[Reading 14]:Reading15.md
 
 
 
