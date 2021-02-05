@@ -62,7 +62,7 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|
 |  1 |  Fri, Jan 22               | [Introduction] |  [Assignment 1]  |
 |  2 |  Fri, Jan 29               | [Mentorship Meeting 1] |[Assigned reading and podcast]  |
-|  3 |  Fri, Feb 5                | [Gender: Diversity, Inclusion and Belonging] |[Reading 3]  |
+|  3 |  Fri, Feb 5                | [Gender: Diversity, Inclusion and Belonging] |[Podcasts]  |
 |  4 |  Fri, Feb 12               | [Guest Speaker: Justin Samuels] |[Reading 4]  |
 |  5 |  Fri, Feb 19               | [Mentorship Meeting 2] |[Reading 5]  |
 |  6 |  Fri, Feb 26               | [Librarian: Nnekay FitzClarke] |[Reading 6]  |
@@ -85,7 +85,7 @@ By the end of the course, you will be able to ...
 
 [Introduction]: https://docs.google.com/presentation/d/1JdgnzmMBhBa39sTSM0b6D-5HwQQLmUldL61owbNyvUc/edit?usp=sharing
 [Mentorship Meeting 1]: https://docs.google.com/document/d/1F7TBcSD-HIvzEE6FaenKgn05blPeLDIg6BW0A4mROtw/edit?usp=sharing
-[Gender: Diversity, Inclusion and Belonging]:Lesson3.md
+[Gender: Diversity, Inclusion and Belonging]:https://docs.google.com/presentation/d/1Y22E9UIn1RVYyRRirxdTWLMAnzHV3Q-Eg-7GUZ0vCaY/edit?usp=sharing
 [Guest Speaker: Justin Samuels]: https://twitter.com/ThugDebugger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
 [Mentorship Meeting 2]:Lesson4.md
 [Librarian: Nnekay FitzClarke]: https://www.dominican.edu/directory-people/nnekay-fitzclarke
@@ -98,7 +98,7 @@ By the end of the course, you will be able to ...
 [Engineering Peace]:Lesson11.md
 [Assignment 1]: https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
 [Assigned reading and podcast]:https://docs.google.com/document/d/10W2ZtMeLy8QVPjK9Bo1_5FrQV08wjgrVJdEqwP9qZtg/edit?usp=sharing
-[Reading 3]:Reading4.md
+[Podcasts]:https://docs.google.com/document/d/1L2dlvso90y-zb7cWa7SD9eVTGlfrdcTi7DhuzQHWWpg/edit?usp=sharing
 [Reading 4]:Reading5.md
 [Reading 5]:Reading6.md
 [Reading 6]:Reading7.md
