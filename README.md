@@ -100,7 +100,7 @@ By the end of the course, you will be able to ...
 [Assigned reading and podcast]:https://docs.google.com/document/d/10W2ZtMeLy8QVPjK9Bo1_5FrQV08wjgrVJdEqwP9qZtg/edit?usp=sharing
 [Podcasts]:https://docs.google.com/document/d/1L2dlvso90y-zb7cWa7SD9eVTGlfrdcTi7DhuzQHWWpg/edit?usp=sharing
 [Podcasts and Readings]:https://docs.google.com/document/d/1aR6ShTLHxlzLPeqppInml3ZX4jbJWhUEgrOvl9ZzmyE/edit
-[Podcasts]:https://docs.google.com/document/d/1572kHnqTcQE9itAa1ejHF5EOqF_5hnicaSmCECPm3Ak/edit?usp=sharing
+[Podcasts]:https://docs.google.com/document/d/1572kHnqTcQE9itAa1ejHF5EOqF_5hnicaSmCECPm3Ak/edit
 [Reading 6]:Reading7.md
 [Reading 7]:Reading8.md
 [Reading 8]:Reading9.md
