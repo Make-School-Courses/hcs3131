@@ -64,7 +64,7 @@ By the end of the course, you will be able to ...
 |  2 |  Fri, Jan 29               | [Mentorship Meeting 1] |[Assigned reading and podcast]  |
 |  3 |  Fri, Feb 5                | [Gender: Diversity, Inclusion and Belonging] |[Podcasts]  |
 |  4 |  Fri, Feb 12               | [Guest Speaker: Justin Samuels] |[Podcasts and Readings]  |
-|  5 |  Fri, Feb 19               | [A Culture of Inclusion] |[Podcasts]  |
+|  5 |  Fri, Feb 19               | [A Culture of Inclusion] |[Podcasts 2]  |
 |  6 |  Fri, Feb 26               | [Librarian: Nnekay FitzClarke] |[Reading 6]  |
 |  7 |  Fri, Mar 5                | [Microagressions Workshop] |[Reading 7]  |
 | -  |  Fri, Mar 12               | **No Class - Spring Break** |
@@ -100,7 +100,7 @@ By the end of the course, you will be able to ...
 [Assigned reading and podcast]:https://docs.google.com/document/d/10W2ZtMeLy8QVPjK9Bo1_5FrQV08wjgrVJdEqwP9qZtg/edit?usp=sharing
 [Podcasts]:https://docs.google.com/document/d/1L2dlvso90y-zb7cWa7SD9eVTGlfrdcTi7DhuzQHWWpg/edit?usp=sharing
 [Podcasts and Readings]:https://docs.google.com/document/d/1aR6ShTLHxlzLPeqppInml3ZX4jbJWhUEgrOvl9ZzmyE/edit
-[Podcasts]:https://docs.google.com/document/d/1572kHnqTcQE9itAa1ejHF5EOqF_5hnicaSmCECPm3Ak/edit
+[Podcasts 2]:https://docs.google.com/document/d/1572kHnqTcQE9itAa1ejHF5EOqF_5hnicaSmCECPm3Ak/edit
 [Reading 6]:Reading7.md
 [Reading 7]:Reading8.md
 [Reading 8]:Reading9.md
