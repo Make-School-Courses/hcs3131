@@ -119,7 +119,7 @@ All assignments are due **11.59pm PST** on the due date stated
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
 |  [Mentorship Agreement] and [Assignment 1]             | Fri, Jan 22 |      Wed, Jan 27     |
-|  [Assignment 2]              | Fri, Feb 19 |      Fri, Feb 26     |
+|  [Assignment 2]              | Fri, Feb 26 |      Fri, March 5     |
 |  [Assignment 3]              | Fri, Mar 5   | Fri, Mar 26   |
 |  [Assignment 4]              | varies   | varies 50%, Fri, April 14: 50% Final Podcast   |
 
