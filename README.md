@@ -69,7 +69,7 @@ By the end of the course, you will be able to ...
 |  7 |  Fri, Mar 5                | [Microagressions Workshop] |[Reading 7]  |
 | -  |  Fri, Mar 12               | **No Class - Spring Break** |
 | 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |
-| 9 |   Fri, Mar 26               | [Mentorship Meeting 3] |[Reading 8]  |
+| 9 |   Fri, Mar 26               | [Mentorship Meeting 2] |[Reading 8]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
 | 10 |  Fri, Apr 9                | [Guest Speaker: Christine Osazuwa] |[Reading 9]  |
 | 11 |  Fri, Apr 16               | [Disability Access and Technology] |[Reading 10]  |
