@@ -15,7 +15,7 @@ This course will investigate the relevance of gender, race and sexuality to unde
 
 ### Core Curriculum Requirement
 
-Technology and Equity satisfies one of Science and Letters course categories required for a bachelor’s degree. A final grade of “PASS” is required.
+Technology and Equity satisfies one of Science and Letters CORE categories required for a bachelor’s degree. A final grade of “PASS” is required.
 
 
 ## Course Specifics
@@ -119,9 +119,12 @@ All assignments are due **11.59pm PST** on the due date stated
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
 |  [Mentorship Agreement] and [Assignment 1]             | Fri, Jan 22 |      Wed, Jan 27     |
-|  [Assignment 2]              | Fri, Feb 26 |      Fri, March 5     |
-|  [Assignment 3]              | Fri, Mar 5   | Fri, Mar 26   |
-|  [Assignment 4]              | varies   | varies 50%, Fri, April 14: 50% Final Podcast   |
+|  [Podcast Pitch]              | Fri, Feb 26 |      Fri, March 5     |
+|  [RD Audio Recording]              | Fri, Mar 5   | Fri, Mar 26   |
+|  [Self Reflection]              | Fri, Mar 26   | Fri, April 9   |
+|  [Podcast Artwork]              | Fri, March 26   | Fri, April 16   |
+|  [Script Final Draft]              | Fri, Mar 26   | Fri, Apr 23   |
+|  [Podcast and Reflection]              | Fri, Apr 23   | Fri, May 14  |
 
 [Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
 [Assignment 1]:https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
@@ -153,8 +156,8 @@ To pass this course you must meet the following requirements:
 |:-----:|:----------------------:|:----------------------------------------------:|
 |**Participation**: Attendance, active participation in zoom and in class google docs; online assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
 |**Self Reflection Paper**: Students will give feedback and write one reflective paper based on their attendance at Balboa High School’s Test Flight Review. Students are expected to meet a minimum score of 2-3 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  10%  |  2-3  |
-|**Mentorship meetings**: Students must participate in 3 virtual meetings with students at [Balboa High School](https://www.sfusd.edu/school/balboa-high-school) in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  See [Mentorship Agreement](https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing). |  20%  |  N/A  |
-|**Presentations: Make School and Passion Project**: Students will present Make School to Balboa High School in a 20 minute presentation format in week 2 of class.  In week 9, students will present their intensive projects to Balboa High School students.   Students are expected to meet a minimum score of 2-3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  2-3  |
+|**Mentorship meetings**: Students must participate in 2 virtual meetings with students at [Balboa High School](https://www.sfusd.edu/school/balboa-high-school) in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  See [Mentorship Agreement](https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing). |  20%  |  N/A  |
+|**Presentations: Make School and Passion Project**: Students will present Make School to Balboa High School in a 20 minute presentation format in week 2 of class.  In week 9, students will mentor Balboa High School students in their Test Flight Review.   Students are expected to meet a minimum score of 2-3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  2-3  |
 |**Final Podcast**: Group Podcast on topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 2-3 on the [Critical Thinking Rubric](https://docs.google.com/document/d/1GyrVCyYP9A7CnJoU7edECs4hXXy4n3sbHSfRO7LG7MA/edit?usp=sharing) |  40%  |  2-3  |
 
 ***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
