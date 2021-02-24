@@ -88,7 +88,7 @@ By the end of the course, you will be able to ...
 [Gender: Diversity, Inclusion and Belonging]:https://docs.google.com/presentation/d/1Y22E9UIn1RVYyRRirxdTWLMAnzHV3Q-Eg-7GUZ0vCaY/edit?usp=sharing
 [Guest Speaker: Justin Samuels]: https://docs.google.com/presentation/d/10jeRR6dbqadq1vpZnPuCsn7Q6azPXHv83Csm3Q8TnaA/edit?usp=sharing
 [A Culture of Inclusion]:https://docs.google.com/presentation/d/1m8y5r54-_k6WFsE-G2_xvq5JWHj-PriE6L0CEdYFKMo/edit?usp=sharing
-[Librarian: Nnekay FitzClarke]: https://www.dominican.edu/directory-people/nnekay-fitzclarke
+[Librarian: Nnekay FitzClarke]: https://docs.google.com/presentation/d/1fg4jJW3S5x6vY4tNM13zHccjKf7kyF_XY7ysSYGMR5g/edit?usp=sharing
 [Microagressions Workshop]:Lesson5.md
 [Mentorship Meeting 3]:Lesson6.md
 [Guest Speaker: Christine Osazuwa]:Lesson7.md
