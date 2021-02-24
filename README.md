@@ -65,7 +65,7 @@ By the end of the course, you will be able to ...
 |  3 |  Fri, Feb 5                | [Gender: Diversity, Inclusion and Belonging] |[Podcasts]  |
 |  4 |  Fri, Feb 12               | [Guest Speaker: Justin Samuels] |[Podcasts and Readings]  |
 |  5 |  Fri, Feb 19               | [A Culture of Inclusion] |[Podcasts 2]  |
-|  6 |  Fri, Feb 26               | [Librarian: Nnekay FitzClarke] |[Reading 6]  |
+|  6 |  Fri, Feb 26               | [Librarian: Nnekay FitzClarke] |[Podcast Pitch]  |
 |  7 |  Fri, Mar 5                | [Microagressions Workshop] |[Reading 7]  |
 | -  |  Fri, Mar 12               | **No Class - Spring Break** |
 | 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |
@@ -128,7 +128,7 @@ All assignments are due **11.59pm PST** on the due date stated
 
 [Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
 [Assignment 1]:https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
-
+[Podcast Pitch]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit?usp=sharing
 
 
 
