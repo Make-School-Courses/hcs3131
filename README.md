@@ -69,13 +69,13 @@ By the end of the course, you will be able to ...
 |  7 |  Fri, Mar 5                | [Microagressions Workshop] |[Sign Up for Meetings]  |
 | -  |  Fri, Mar 12               | **No Class - Spring Break** |
 | 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |    
-| 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Reading 8]  |
+| 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Self Reflection]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | [Podcast Pitch Presentations] |[Reading 9]  |
-| 11 |  Fri, Apr 16               | [Disability Access and Technology] |[Reading 10]  |
-| 12 |  Fri, Apr 23               | [Gender in a Digital Space, Peer Review] |[Reading 11]  |
-| 13 |  Fri, Apr 30               | [Race and Gender in Gaming] |[Reading 12]  |
-| 14 |  Fri, May 7                | [Engineering Peace] |[Reading 13]  |
+| 10 |  Fri, Apr 9                | [Podcast Pitch Presentations] |[]  |
+| 11 |  Fri, Apr 16               | [Disability Access and Technology] |[]  |
+| 12 |  Fri, Apr 23               | [Gender in a Digital Space, Peer Review] |[]  |
+| 13 |  Fri, Apr 30               | [Race and Gender in Gaming] |[]  |
+| 14 |  Fri, May 7                | [Engineering Peace] |[]  |
 | 15 |  Fri, May 14                | Podcasts/Presentations  |
 
 
@@ -103,7 +103,7 @@ By the end of the course, you will be able to ...
 [Podcasts and Readings]:https://docs.google.com/document/d/1aR6ShTLHxlzLPeqppInml3ZX4jbJWhUEgrOvl9ZzmyE/edit
 [Podcasts 2]:https://docs.google.com/document/d/1572kHnqTcQE9itAa1ejHF5EOqF_5hnicaSmCECPm3Ak/edit
 [Sign Up for Meetings]:https://docs.google.com/document/d/1p2_-GRjtQfU26lp2Lrm70SWIS88Lq0ybaWjmCIKOrak/edit?usp=sharing
-[Reading 7]:Reading8.md
+[Self Reflection]:Reading8.md
 [Reading 8]:Reading9.md
 [Reading 9]:Reading10.md
 [Reading 10]:Reading11.md
