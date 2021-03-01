@@ -115,7 +115,7 @@ By the end of the course, you will be able to ...
 
 
 ## Assignment Schedule
-All assignments are due **11.59pm PST** on the due date stated
+All assignments are due **9am PST** on the due date stated
 
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
@@ -131,7 +131,7 @@ All assignments are due **11.59pm PST** on the due date stated
 [Assignment 1]:https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
 [Podcast Pitch]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit?usp=sharing
 [RD Audio Recording]:https://docs.google.com/document/d/1KFQIBebmc13xEnhMvR8xVXJq6tv32W7eQBfVaHUB5Tg/edit?usp=sharing
-[Self Reflection]:
+[Self Reflection]:https://docs.google.com/document/d/1dYvAOC8YktxTX0FVisXVga2nBeZvx4oPwcSd_oQIU8Q/edit?usp=sharing
 [Podcast Artwork]:https://docs.google.com/document/d/1brTiGWqW0l-Hu9bB3QzOe5dAZ8iiE_2wLHvsS3ddWMY/edit?usp=sharing
 [Script Final Draft]:https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing
 [Podcast and Reflection]: https://docs.google.com/document/d/1TWrVFoyeNVoV6S46XnVTIpFqionyihLfDXiq2jWwdL0/edit?usp=sharing
@@ -163,7 +163,7 @@ To pass this course you must meet the following requirements:
 |**Participation**: Attendance, active participation in zoom and in class google docs; online assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
 |**Self Reflection Paper**: Students will give feedback and write one reflective paper based on their attendance at Balboa High School’s Test Flight Review. Students are expected to meet a minimum score of 2-3 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  10%  |  2-3  |
 |**Mentorship meetings**: Students must participate in 2 virtual meetings with students at [Balboa High School](https://www.sfusd.edu/school/balboa-high-school) in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  See [Mentorship Agreement](https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing). |  20%  |  N/A  |
-|**Presentations: Make School and Passion Project**: Students will present Make School to Balboa High School in a 20 minute presentation format in week 2 of class.  In week 9, students will mentor Balboa High School students in their Test Flight Review.   Students are expected to meet a minimum score of 2-3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  2-3  |
+|**Presentations: Make School and Coaching**: Students will present Make School to Balboa High School in a 20 minute presentation format in week 2 of class.  In week 9, students will mentor Balboa High School students in their Test Flight Review.   Students are expected to meet a minimum score of 2-3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  2-3  |
 |**Final Podcast**: Group Podcast on topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 2-3 on the [Digital Project Rubric](https://docs.google.com/document/d/1rJHId-BlEjw0wlePl6-OnLXiBqVAeo3chlIfGaGODKg/edit) |  40%  |  2-3  |
 
 ***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
