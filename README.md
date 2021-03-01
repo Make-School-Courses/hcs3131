@@ -92,11 +92,7 @@ By the end of the course, you will be able to ...
 [Microagressions Workshop]:https://docs.google.com/presentation/d/1YwFd3dZeDbnocth_EUJba6oww_ZQErOEDFjvOJZreZo/edit?usp=sharing
 [Mentorship Meeting 2 & Guest Speaker]:https://docs.google.com/document/d/1pRvzBYsQpKMYLE_YZUrdCnlYe9DeAO8Oz5iSjx5mbbc/edit?usp=sharing
 [***Individual Meetings, No Class***]: https://docs.google.com/document/d/1p2_-GRjtQfU26lp2Lrm70SWIS88Lq0ybaWjmCIKOrak/edit?usp=sharing
-[Podcast Pitch Presentations]:
-[Disability Access and Technology]:
-[Gender in a Digital Space, Peer Review]:
-[Race and Gender in Gaming]:
-[Engineering Peace]:
+
 [Assignment 1]: https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
 [Assigned reading and podcast]:https://docs.google.com/document/d/10W2ZtMeLy8QVPjK9Bo1_5FrQV08wjgrVJdEqwP9qZtg/edit?usp=sharing
 [Podcasts]:https://docs.google.com/document/d/1L2dlvso90y-zb7cWa7SD9eVTGlfrdcTi7DhuzQHWWpg/edit?usp=sharing
