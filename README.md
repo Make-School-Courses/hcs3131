@@ -58,7 +58,7 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Friday at 9:30am–12:30pm (15 class sessions)
 
-| Class |          Date          |                 Topics                  |  Assigned Readings          |
+| Class |          Date          |                 Topics                  |  Homework          |
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|
 |  1 |  Fri, Jan 22               | [Introduction] |  [Assignment 1]  |
 |  2 |  Fri, Jan 29               | [Mentorship Meeting 1] |[Assigned reading and podcast]  |
@@ -69,11 +69,11 @@ By the end of the course, you will be able to ...
 |  7 |  Fri, Mar 5                | [Microagressions Workshop] |[Reading 7]  |
 | -  |  Fri, Mar 12               | **No Class - Spring Break** |
 | 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |
-| 9 |   Fri, Mar 26               | [Mentorship Meeting 2] |[Reading 8]  |
+| 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Reading 8]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | [Guest Speaker: Christine Osazuwa] |[Reading 9]  |
+| 10 |  Fri, Apr 9                | [Podcast Pitch Presentations] |[Reading 9]  |
 | 11 |  Fri, Apr 16               | [Disability Access and Technology] |[Reading 10]  |
-| 12 |  Fri, Apr 23               | [Gender in a Digital Space] |[Reading 11]  |
+| 12 |  Fri, Apr 23               | [Gender in a Digital Space, Peer Review] |[Reading 11]  |
 | 13 |  Fri, Apr 30               | [Race and Gender in Gaming] |[Reading 12]  |
 | 14 |  Fri, May 7                | [Engineering Peace] |[Reading 13]  |
 | 15 |  Fri, May 14                | Podcasts/Presentations  |
@@ -90,8 +90,9 @@ By the end of the course, you will be able to ...
 [A Culture of Inclusion]:https://docs.google.com/presentation/d/1m8y5r54-_k6WFsE-G2_xvq5JWHj-PriE6L0CEdYFKMo/edit?usp=sharing
 [Librarian: Nnekay FitzClarke]: https://docs.google.com/presentation/d/1fg4jJW3S5x6vY4tNM13zHccjKf7kyF_XY7ysSYGMR5g/edit?usp=sharing
 [Microagressions Workshop]:Lesson5.md
-[Mentorship Meeting 3]:Lesson6.md
-[Guest Speaker: Christine Osazuwa]:Lesson7.md
+[Mentorship Meeting 2 & Guest Speaker]:https://docs.google.com/document/d/1pRvzBYsQpKMYLE_YZUrdCnlYe9DeAO8Oz5iSjx5mbbc/edit?usp=sharing
+[***Individual Meetings, No Class***]: https://docs.google.com/document/d/1p2_-GRjtQfU26lp2Lrm70SWIS88Lq0ybaWjmCIKOrak/edit?usp=sharing
+[Podcast Pitch Presentations]:Lesson7.md
 [Disability Access and Technology]:Lesson8.md
 [Gender in a Digital Space]:Lesson9.md
 [Race and Gender in Gaming]:Lesson10.md
