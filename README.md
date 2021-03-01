@@ -89,7 +89,7 @@ By the end of the course, you will be able to ...
 [Guest Speaker: Justin Samuels]: https://docs.google.com/presentation/d/10jeRR6dbqadq1vpZnPuCsn7Q6azPXHv83Csm3Q8TnaA/edit?usp=sharing
 [A Culture of Inclusion]:https://docs.google.com/presentation/d/1m8y5r54-_k6WFsE-G2_xvq5JWHj-PriE6L0CEdYFKMo/edit?usp=sharing
 [Librarian: Nnekay FitzClarke]: https://docs.google.com/presentation/d/1fg4jJW3S5x6vY4tNM13zHccjKf7kyF_XY7ysSYGMR5g/edit?usp=sharing
-[Microagressions Workshop]:Lesson5.md
+[Microagressions Workshop]:https://docs.google.com/presentation/d/1YwFd3dZeDbnocth_EUJba6oww_ZQErOEDFjvOJZreZo/edit?usp=sharing
 [Mentorship Meeting 2 & Guest Speaker]:https://docs.google.com/document/d/1pRvzBYsQpKMYLE_YZUrdCnlYe9DeAO8Oz5iSjx5mbbc/edit?usp=sharing
 [***Individual Meetings, No Class***]: https://docs.google.com/document/d/1p2_-GRjtQfU26lp2Lrm70SWIS88Lq0ybaWjmCIKOrak/edit?usp=sharing
 [Podcast Pitch Presentations]:
