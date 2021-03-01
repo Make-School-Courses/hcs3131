@@ -71,11 +71,11 @@ By the end of the course, you will be able to ...
 | 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |    
 | 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Self Reflection]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | [Podcast Pitch Presentations] |  
-| 11 |  Fri, Apr 16               | [Disability Access and Technology] |
-| 12 |  Fri, Apr 23               | [Gender in a Digital Space, Peer Review] |  
-| 13 |  Fri, Apr 30               | [Race and Gender in Gaming] |  
-| 14 |  Fri, May 7                | [Engineering Peace] |  
+| 10 |  Fri, Apr 9                | Podcast Pitch Presentations |  
+| 11 |  Fri, Apr 16               | Disability Access and Technology |
+| 12 |  Fri, Apr 23               | Gender in a Digital Space, Peer Review |  
+| 13 |  Fri, Apr 30               | Race and Gender in Gaming |  
+| 14 |  Fri, May 7                | Engineering Peace |  
 | 15 |  Fri, May 14                | Podcasts/Presentations  |
 
 
@@ -91,6 +91,7 @@ By the end of the course, you will be able to ...
 [Librarian: Nnekay FitzClarke]: https://docs.google.com/presentation/d/1fg4jJW3S5x6vY4tNM13zHccjKf7kyF_XY7ysSYGMR5g/edit?usp=sharing
 [Microagressions Workshop]:https://docs.google.com/presentation/d/1YwFd3dZeDbnocth_EUJba6oww_ZQErOEDFjvOJZreZo/edit?usp=sharing
 [Mentorship Meeting 2 & Guest Speaker]:https://docs.google.com/document/d/1pRvzBYsQpKMYLE_YZUrdCnlYe9DeAO8Oz5iSjx5mbbc/edit?usp=sharing
+
 
 [Assignment 1]: https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
 [Assigned reading and podcast]:https://docs.google.com/document/d/10W2ZtMeLy8QVPjK9Bo1_5FrQV08wjgrVJdEqwP9qZtg/edit?usp=sharing
