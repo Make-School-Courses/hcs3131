@@ -66,9 +66,9 @@ By the end of the course, you will be able to ...
 |  4 |  Fri, Feb 12               | [Guest Speaker: Justin Samuels] |[Podcasts and Readings]  |
 |  5 |  Fri, Feb 19               | [A Culture of Inclusion] |[Podcasts 2]  |
 |  6 |  Fri, Feb 26               | [Librarian: Nnekay FitzClarke] |[Podcast Pitch]  |
-|  7 |  Fri, Mar 5                | [Microagressions Workshop] |[Reading 7]  |
+|  7 |  Fri, Mar 5                | [Microagressions Workshop] |[Sign Up for Meetings]  |
 | -  |  Fri, Mar 12               | **No Class - Spring Break** |
-| 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |
+| 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |    
 | 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Reading 8]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
 | 10 |  Fri, Apr 9                | [Podcast Pitch Presentations] |[Reading 9]  |
@@ -102,7 +102,7 @@ By the end of the course, you will be able to ...
 [Podcasts]:https://docs.google.com/document/d/1L2dlvso90y-zb7cWa7SD9eVTGlfrdcTi7DhuzQHWWpg/edit?usp=sharing
 [Podcasts and Readings]:https://docs.google.com/document/d/1aR6ShTLHxlzLPeqppInml3ZX4jbJWhUEgrOvl9ZzmyE/edit
 [Podcasts 2]:https://docs.google.com/document/d/1572kHnqTcQE9itAa1ejHF5EOqF_5hnicaSmCECPm3Ak/edit
-[Reading 6]:Reading7.md
+[Sign Up for Meetings]:https://docs.google.com/document/d/1p2_-GRjtQfU26lp2Lrm70SWIS88Lq0ybaWjmCIKOrak/edit?usp=sharing
 [Reading 7]:Reading8.md
 [Reading 8]:Reading9.md
 [Reading 9]:Reading10.md
@@ -130,6 +130,11 @@ All assignments are due **11.59pm PST** on the due date stated
 [Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
 [Assignment 1]:https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
 [Podcast Pitch]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit?usp=sharing
+[RD Audio Recording]:https://docs.google.com/document/d/1KFQIBebmc13xEnhMvR8xVXJq6tv32W7eQBfVaHUB5Tg/edit?usp=sharing
+[Self Reflection]:
+[Podcast Artwork]:https://docs.google.com/document/d/1brTiGWqW0l-Hu9bB3QzOe5dAZ8iiE_2wLHvsS3ddWMY/edit?usp=sharing
+[Script Final Draft]:https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing
+[Podcast and Reflection]: https://docs.google.com/document/d/1TWrVFoyeNVoV6S46XnVTIpFqionyihLfDXiq2jWwdL0/edit?usp=sharing
 
 
 
