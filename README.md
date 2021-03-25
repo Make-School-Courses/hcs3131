@@ -112,6 +112,7 @@ All assignments are due **9am PST** on the due date stated
 |:------------------------------:|:----------------------:|:----------------------------------------:|
 |  [Mentorship Agreement] and [Assignment 1]             | Fri, Jan 22 |      Wed, Jan 27     |
 |  [Podcast Pitch]              | Fri, Feb 26 |      Fri, March 5     |
+|  [Podcast Pitch Presentation]              | Fri, Feb 26 |      Fri, April 9     |
 |  [RD Audio Recording]              | Fri, Mar 5   | Fri, Mar 26   |
 |  [Self Reflection]              | Fri, Mar 26   | Fri, April 9   |
 |  [Podcast Artwork]              | Fri, March 26   | Fri, April 16   |
@@ -121,6 +122,7 @@ All assignments are due **9am PST** on the due date stated
 [Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
 [Assignment 1]:https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
 [Podcast Pitch]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit?usp=sharing
+[Podcast Pitch Presentation]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit
 [RD Audio Recording]:https://docs.google.com/document/d/1KFQIBebmc13xEnhMvR8xVXJq6tv32W7eQBfVaHUB5Tg/edit?usp=sharing
 [Self Reflection]:https://docs.google.com/document/d/1dYvAOC8YktxTX0FVisXVga2nBeZvx4oPwcSd_oQIU8Q/edit?usp=sharing
 [Podcast Artwork]:https://docs.google.com/document/d/1brTiGWqW0l-Hu9bB3QzOe5dAZ8iiE_2wLHvsS3ddWMY/edit?usp=sharing
