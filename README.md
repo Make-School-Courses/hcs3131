@@ -72,8 +72,8 @@ By the end of the course, you will be able to ...
 | 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Self Reflection]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
 | 10 |  Fri, Apr 9                | Podcast Pitch Presentations |  
-| 11 |  Fri, Apr 16               | Disability Access and Technology |
-| 12 |  Fri, Apr 23               | Gender in a Digital Space, Peer Review |  
+| 11 |  Fri, Apr 16               | Microagressions Revisted |
+| 12 |  Fri, Apr 23               | Disability Access and Guest Speaker |  
 | 13 |  Fri, Apr 30               | Mentorship Meeting 3 |  
 | 14 |  Fri, May 7                | Engineering Peace |  
 | 15 |  Fri, May 14                | Podcasts/Presentations  |
