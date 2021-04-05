@@ -71,7 +71,7 @@ By the end of the course, you will be able to ...
 | 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |    
 | 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Self Reflection]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | Podcast Pitch Class Presentations |  [Podcast Artwork]
+| 10 |  Fri, Apr 9                | [Podcast Pitch Class Presentations] |  [Podcast Artwork]
 | 11 |  Fri, Apr 16               | Microaggressions Revisted, script writing |
 | 12 |  Fri, Apr 23               | Disability Access Guest Speaker and Peer Review |  
 | 13 |  Fri, Apr 30               | Mentorship Meeting 3 |  
