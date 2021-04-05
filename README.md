@@ -71,7 +71,7 @@ By the end of the course, you will be able to ...
 | 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |    
 | 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Self Reflection]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | Podcast Pitch Presentations |  
+| 10 |  Fri, Apr 9                | Podcast Pitch Class Presentations |  [Podcast Artwork]
 | 11 |  Fri, Apr 16               | Microaggressions Revisted, script writing |
 | 12 |  Fri, Apr 23               | Disability Access Guest Speaker and Peer Review |  
 | 13 |  Fri, Apr 30               | Mentorship Meeting 3 |  
@@ -91,7 +91,7 @@ By the end of the course, you will be able to ...
 [Librarian: Nnekay FitzClarke]: https://docs.google.com/presentation/d/1fg4jJW3S5x6vY4tNM13zHccjKf7kyF_XY7ysSYGMR5g/edit?usp=sharing
 [Microagressions Workshop]:https://docs.google.com/presentation/d/1YwFd3dZeDbnocth_EUJba6oww_ZQErOEDFjvOJZreZo/edit?usp=sharing
 [Mentorship Meeting 2 & Guest Speaker]:https://docs.google.com/document/d/1pRvzBYsQpKMYLE_YZUrdCnlYe9DeAO8Oz5iSjx5mbbc/edit?usp=sharing
-[Podcast Pitch Presentations]: https://docs.google.com/presentation/d/1qa_BIIP_u06SGwohFtPtDAIHZSX-T9EYHIecjHHuPqw/edit?usp=sharing
+[Podcast Pitch Class Presentations]:https://docs.google.com/presentation/d/1qa_BIIP_u06SGwohFtPtDAIHZSX-T9EYHIecjHHuPqw/edit?usp=sharing
 
 
 [Assignment 1]: https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
@@ -102,7 +102,7 @@ By the end of the course, you will be able to ...
 [Podcast Pitch]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit?usp=sharing
 [Sign Up for Meetings]:https://docs.google.com/document/d/1p2_-GRjtQfU26lp2Lrm70SWIS88Lq0ybaWjmCIKOrak/edit?usp=sharing
 [Self Reflection]:https://docs.google.com/document/d/1dYvAOC8YktxTX0FVisXVga2nBeZvx4oPwcSd_oQIU8Q/edit?usp=sharing
-
+[Podcast Artwork]:https://docs.google.com/document/d/1brTiGWqW0l-Hu9bB3QzOe5dAZ8iiE_2wLHvsS3ddWMY/edit?usp=sharing
 
 
 
