@@ -72,8 +72,8 @@ By the end of the course, you will be able to ...
 | 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Self Reflection]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
 | 10 |  Fri, Apr 9                | Podcast Pitch Presentations |  
-| 11 |  Fri, Apr 16               | Microagressions Revisted |
-| 12 |  Fri, Apr 23               | Disability Access and Guest Speaker |  
+| 11 |  Fri, Apr 16               | Microaggressions Revisted, script writing |
+| 12 |  Fri, Apr 23               | Disability Access Guest Speaker and Peer Review |  
 | 13 |  Fri, Apr 30               | Mentorship Meeting 3 |  
 | 14 |  Fri, May 7                | Engineering Peace |  
 | 15 |  Fri, May 14                | Podcasts/Presentations  |
@@ -91,6 +91,7 @@ By the end of the course, you will be able to ...
 [Librarian: Nnekay FitzClarke]: https://docs.google.com/presentation/d/1fg4jJW3S5x6vY4tNM13zHccjKf7kyF_XY7ysSYGMR5g/edit?usp=sharing
 [Microagressions Workshop]:https://docs.google.com/presentation/d/1YwFd3dZeDbnocth_EUJba6oww_ZQErOEDFjvOJZreZo/edit?usp=sharing
 [Mentorship Meeting 2 & Guest Speaker]:https://docs.google.com/document/d/1pRvzBYsQpKMYLE_YZUrdCnlYe9DeAO8Oz5iSjx5mbbc/edit?usp=sharing
+[Podcast Pitch Presentations]: https://docs.google.com/presentation/d/1qa_BIIP_u06SGwohFtPtDAIHZSX-T9EYHIecjHHuPqw/edit?usp=sharing
 
 
 [Assignment 1]: https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
@@ -115,8 +116,8 @@ All assignments are due **9am PST** on the due date stated
 |  [Podcast Pitch Presentation]              | Fri, Feb 26 |      Fri, April 9     |
 |  [RD Audio Recording]              | Fri, Mar 5   | Fri, Mar 26   |
 |  [Self Reflection]              | Fri, Mar 26   | Fri, April 9   |
-|  [Podcast Artwork]              | Fri, March 26   | Fri, April 16   |
-|  [Script Final Draft]              | Fri, Mar 26   | Fri, Apr 23   |
+|  [Podcast Artwork]              | Fri, April 9   | Fri, April 16   |
+|  [Script Final Draft]              | Fri, April 9   | Fri, Apr 23, Apr 30   |
 |  [Podcast and Reflection]              | Fri, Apr 23   | Fri, May 14  |
 
 [Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
