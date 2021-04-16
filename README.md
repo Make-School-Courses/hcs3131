@@ -72,7 +72,7 @@ By the end of the course, you will be able to ...
 | 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Self Reflection]  |
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
 | 10 |  Fri, Apr 9                | [Podcast Pitch Class Presentations] |  [Podcast Artwork]
-| 11 |  Fri, Apr 16               | [Microaggressions Revisted, script writing] | [Script Final Draft]
+| 11 |  Fri, Apr 16               | [Microaggressions Revisted, script writing] | [Podcast Script]
 | 12 |  Fri, Apr 23               | Disability Access Guest Speaker and Peer Review |  
 | 13 |  Fri, Apr 30               | Mentorship Meeting 3 |  
 | 14 |  Fri, May 7                | Engineering Peace |  
@@ -117,7 +117,7 @@ All assignments are due **9am PST** on the due date stated
 |  [RD Audio Recording]              | Fri, Mar 5   | Fri, Mar 26   |
 |  [Self Reflection]              | Fri, Mar 26   | Fri, April 9   |
 |  [Podcast Artwork]              | Fri, April 9   | Fri, April 16   |
-|  [Script Final Draft]              | Fri, April 9   | Fri, Apr 23, Apr 30   |
+|  [Podcast Script]              | Fri, April 9   | Fri, Apr 23, Apr 30   |
 |  [Podcast and Reflection]              | Fri, Apr 23   | Fri, May 14  |
 
 [Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
@@ -127,7 +127,7 @@ All assignments are due **9am PST** on the due date stated
 [RD Audio Recording]:https://docs.google.com/document/d/1KFQIBebmc13xEnhMvR8xVXJq6tv32W7eQBfVaHUB5Tg/edit?usp=sharing
 [Self Reflection]:https://docs.google.com/document/d/1dYvAOC8YktxTX0FVisXVga2nBeZvx4oPwcSd_oQIU8Q/edit?usp=sharing
 [Podcast Artwork]:https://docs.google.com/document/d/1brTiGWqW0l-Hu9bB3QzOe5dAZ8iiE_2wLHvsS3ddWMY/edit?usp=sharing
-[Script Final Draft]:https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing
+[Podcast Script]:https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing
 [Podcast and Reflection]: https://docs.google.com/document/d/1TWrVFoyeNVoV6S46XnVTIpFqionyihLfDXiq2jWwdL0/edit?usp=sharing
 
 
