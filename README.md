@@ -73,7 +73,7 @@ By the end of the course, you will be able to ...
 | -  |  Fri, Apr 2                | **No Class - Good Friday**  |
 | 10 |  Fri, Apr 9                | [Podcast Pitch Class Presentations] |  [Podcast Artwork]
 | 11 |  Fri, Apr 16               | [Microaggressions Revisted, script writing] | [Podcast Script]
-| 12 |  Fri, Apr 23               | Algorithmic Justice Guest Speaker and Peer Review |  [Peer Review]
+| 12 |  Fri, Apr 23               | [Algorithmic Justice Guest Speaker and Peer Review] |  [Peer Review]
 | 13 |  Fri, Apr 30               | Mentorship Meeting 3 |  
 | 14 |  Fri, May 7                | Engineering Peace |  
 | 15 |  Fri, May 14                | Podcasts/Presentations  |
