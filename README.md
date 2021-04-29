@@ -74,8 +74,8 @@ By the end of the course, you will be able to ...
 | 10 |  Fri, Apr 9                | [Podcast Pitch Class Presentations] |  [Podcast Artwork]
 | 11 |  Fri, Apr 16               | [Microaggressions Revisted, script writing] | [Podcast Script]
 | 12 |  Fri, Apr 23               | [Algorithmic Justice and Peer Review] |  [Peer Review]
-| 13 |  Fri, Apr 30               | Mentorship Meeting 3 |  
-| 14 |  Fri, May 7                | Engineering Peace |  
+| 13 |  Fri, Apr 30               | [Mentorship Meeting 3] |  [Podcast Peacetech Lab]
+| 14 |  Fri, May 7                | [Engineering Peace] |  
 | 15 |  Fri, May 14                | Podcasts/Presentations  |
 
 
@@ -94,6 +94,8 @@ By the end of the course, you will be able to ...
 [Podcast Pitch Class Presentations]:https://docs.google.com/presentation/d/1qa_BIIP_u06SGwohFtPtDAIHZSX-T9EYHIecjHHuPqw/edit?usp=sharing
 [Microaggressions Revisted, script writing]: https://docs.google.com/presentation/d/1JIbO3LVxu1cGqxggOYyFWSsbccbOxUxsjaIYGFQYJYY/edit?usp=sharing
 [Algorithmic Justice and Peer Review]: https://docs.google.com/presentation/d/1DFW3EKsOKkUWdWOqAds3v3e0TDDimuHbDo143XznQUA/edit?usp=sharing
+[Mentorship Meeting 3]:https://docs.google.com/document/d/1M6dygfEdwgGmN1BPdWwvsaRAuxPJY9BScfie6w2ayV0/edit?usp=sharing
+[Engineering Peace]:https://docs.google.com/presentation/d/1vE_ImFxDsk4vXkVsbHO9q0GMko4l2v0S2OItYxwf0e8/edit?usp=sharing
 
 [Assignment 1]: https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
 [Assigned reading and podcast]:https://docs.google.com/document/d/10W2ZtMeLy8QVPjK9Bo1_5FrQV08wjgrVJdEqwP9qZtg/edit?usp=sharing
@@ -105,7 +107,7 @@ By the end of the course, you will be able to ...
 [Self Reflection]:https://docs.google.com/document/d/1dYvAOC8YktxTX0FVisXVga2nBeZvx4oPwcSd_oQIU8Q/edit?usp=sharing
 [Podcast Artwork]:https://docs.google.com/document/d/1brTiGWqW0l-Hu9bB3QzOe5dAZ8iiE_2wLHvsS3ddWMY/edit?usp=sharing
 [Peer Review]:https://docs.google.com/document/d/1QgWze327Vv1a-jB-0pZdcrZCD6J25g2tXeLjg0t8JI8/edit
-
+[Podcast Peacetech Lab]:https://docs.google.com/document/d/1d8big2scqWIhDlleRNCX5DAlrMYSYs6YG5JRBGo8bfE/edit
 
 
 ## Assignment Schedule
