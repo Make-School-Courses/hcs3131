@@ -61,15 +61,17 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |  Asynchronous          |
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|
 |  1 |  Wed, June 2               | [Introduction] |   |
-|  2 |  Fri, June 4              |  |  |
-|  3 |  Wed, June 9               |  | |
-|  4 |  Wed, June 16               | | |
-|  5 |  Wed, June 23               |  |
-|  6 |  Wed, June 30               | ***Individual Meetings, No Class***  | |
-|  7 |  Wed, July 7               |  |  |
-|  8 |  Wed, July 14               |  |
-|  9  |  Wed, July 21              | |    
-|  10 |   Wed, July 28               | | |
+|  2 |  Fri, June 4              |Podcast Topics  |  |
+|  3 |  Wed, June 9               | Guest Speaker | |
+|  4 |  Fri, June 11               |What is a mentor  | |
+|  5 |  Wed, June 16               | | |
+|  6 |  Fri, June 18               |Mentorship Presentation | |
+|  7 |  Wed, June 23               |Guest Speaker:Look what she did  |
+|  8 |  Wed, June 30               | ***Individual Meetings, No Class***  | |
+|  9 |  Wed, July 7               |  |  |
+|  10 |  Wed, July 14               |  |
+|  11  |  Wed, July 21              | |    
+|  12 |   Wed, July 28               | | |
 
 
 
