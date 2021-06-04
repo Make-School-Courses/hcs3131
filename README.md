@@ -60,27 +60,24 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |  Asynchronous          |
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|
-|  1 |  Wed, June 2               | [Introduction] |   |
-|  2 |  Fri, June 4              |Podcast Topics  |  |
-|  3 |  Wed, June 9               | Guest Speaker | |
-|  4 |  Fri, June 11               |What is a mentor  | |
-|  5 |  Wed, June 16               | | |
-|  6 |  Fri, June 18               |Mentorship Presentation | |
-|  7 |  Wed, June 23               |Guest Speaker:Look what she did  |
-|  8 |  Wed, June 30               | ***Individual Meetings, No Class***  | |
-|  9 |  Wed, July 7               |  |  |
-|  10 |  Wed, July 14               |  |
-|  11  |  Wed, July 21              | |    
-|  12 |   Wed, July 28               | | |
-
-
-
-
-
-
-
-[Introduction]: https://docs.google.com/presentation/d/1JdgnzmMBhBa39sTSM0b6D-5HwQQLmUldL61owbNyvUc/edit?usp=sharing
-
+|  1 |  Wed, June 2               | Introduction |  N/A |
+|  2 |  Fri, June 4              |[Introduction](https://docs.google.com/presentation/d/173ovNCkaQ-GXwi4U30qPyLCUsWfNUD5mh8FKV8CGRjc/edit#slide=id.p)  | [Podcast Topics](https://docs.google.com/document/d/1K1eZa19agbiHNFY5a3IajVF_dv7U1_rR9oe5Ey4BfK4/edit?usp=sharing) |
+|  3 |  Wed, June 9               | Podcast and Mentorship|Podcast Pitch |
+|  4 |  Fri, June 11               |Workshop on Pride and Technology  | LGBTQ Podcast |
+|  5 |  Wed, June 16               |Guest Speaker, LGBTQ awareness | RD Audio Recording |
+|  6 |  Fri, June 18               |Podcast Pitch and Mentor Meeting| Women in Tech Podcast |
+|  7 |  Wed, June 23               |Guest Speaker:Look what she did  | Make School Presentation |
+|  8 |  Fri, June 25               |Mentorship Meeting  | Podcast Artwork |
+|  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | Podcast Script |
+|  10 |  Fri, July 2               |Mentorship Meeting | Microaggressions Podcast |
+|  11 |  Wed, July 7               | Microaggressions Workshop  | Self Reflection |
+|  12 |  Fri, July 9              | Mentorship Meeting | Disabilities Podcast  |
+|  13 |  Wed, July 14               | Guest Speaker: Disabilities and Tech | |
+|  14 |  Fri, July 16               | Mentorship Meeting | Workplace Culture Podcast |
+|  15  |  Wed, July 21              | Workshop:Culture in the Workplace|  Podcast and Reflection |
+|  16 |   Fri, July 23               | Mentorship Meeting | Engineering Peace Podcast |
+|  17 |   Wed, July 28               | Engineering Peace | Podcast Presentation |
+|  18 |   Fri, July 30              | Goodbye to Mentees |Feedback on Podcast Presentation |
 
 
 
@@ -91,7 +88,6 @@ All assignments are due **before class** on the due date stated
 
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
-|  [Mentorship Agreement] and [Assignment 1]             |  |          |
 |  [Podcast Pitch]              |  |         |
 |  [Podcast Pitch Presentation]              |  |          |
 |  [RD Audio Recording]              |   |   |
@@ -99,16 +95,6 @@ All assignments are due **before class** on the due date stated
 |  [Podcast Artwork]              |   |   |
 |  [Podcast Script]              |  |   |
 |  [Podcast and Reflection]              |   |  |
-
-[Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
-[Assignment 1]:https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
-[Podcast Pitch]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit?usp=sharing
-[Podcast Pitch Presentation]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit
-[RD Audio Recording]:https://docs.google.com/document/d/1KFQIBebmc13xEnhMvR8xVXJq6tv32W7eQBfVaHUB5Tg/edit?usp=sharing
-[Self Reflection]:https://docs.google.com/document/d/1dYvAOC8YktxTX0FVisXVga2nBeZvx4oPwcSd_oQIU8Q/edit?usp=sharing
-[Podcast Artwork]:https://docs.google.com/document/d/1brTiGWqW0l-Hu9bB3QzOe5dAZ8iiE_2wLHvsS3ddWMY/edit?usp=sharing
-[Podcast Script]:https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing
-[Podcast and Reflection]: https://docs.google.com/document/d/1TWrVFoyeNVoV6S46XnVTIpFqionyihLfDXiq2jWwdL0/edit?usp=sharing
 
 
 
@@ -130,15 +116,15 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 - Participate in the Mentorship component of the course
-- Complete all assignments with a minimum rubric score
+- Complete all assignments with a minimum rubric score of 3 or 4
 
 | Assignments |          Weight         |                 Minimum Rubric Score                          |
 |:-----:|:----------------------:|:----------------------------------------------:|
-|**Participation**: Attendance, active participation in zoom and in class google docs; online assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
-|**Self Reflection Paper**: Students will give feedback and write one reflective paper based on their experience as a mentor. Students are expected to meet a minimum score of 2-3 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  10%  |  2-3  |
-|**Mentorship meetings**: Students must participate in weekly virtual meetings with students in Make School summer academy in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  See [Mentorship Agreement](https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing). |  20%  |  N/A  |
-|**Presentations: Make School and Coaching**: Students will present to mentees and classmates.   Students are expected to meet a minimum score of 2-3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  2-3  |
-|**Final Podcast**: Group Podcast on topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 2-3 on the [Digital Project Rubric](https://docs.google.com/document/d/1rJHId-BlEjw0wlePl6-OnLXiBqVAeo3chlIfGaGODKg/edit) |  40%  |  2-3  |
+|**Participation**: Attendance, active participation in zoom and in class google docs; online asynchronous assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
+|**Self Reflection Paper**: Students will give feedback and write one reflective paper based on their experience as a mentor. Students are expected to meet a minimum score of 3-4 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  10%  |  3-4  |
+|**Mentorship meetings**: Students must participate in weekly virtual meetings with students in Make School summer academy in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  |  20%  |  N/A  |
+|**Presentations: Make School and Coaching**: Students will present to mentees and classmates.   Students are expected to meet a minimum score of 3-4 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  3-4  |
+|**Final Podcast**: Group Podcast on topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 3-4 on the [Digital Project Rubric](https://docs.google.com/document/d/1rJHId-BlEjw0wlePl6-OnLXiBqVAeo3chlIfGaGODKg/edit) |  40%  |  3-4  |
 
 ***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
 
