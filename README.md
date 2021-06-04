@@ -62,19 +62,19 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|
 |  1 |  Wed, June 2               | Introduction |  N/A |
 |  2 |  Fri, June 4              |[Introduction](https://docs.google.com/presentation/d/173ovNCkaQ-GXwi4U30qPyLCUsWfNUD5mh8FKV8CGRjc/edit#slide=id.p)  | [Podcast Topics](https://docs.google.com/document/d/1K1eZa19agbiHNFY5a3IajVF_dv7U1_rR9oe5Ey4BfK4/edit?usp=sharing) |
-|  3 |  Wed, June 9               | Podcast and Mentorship|Podcast Pitch |
+|  3 |  Wed, June 9               | Podcast and Mentorship| Podcast Pitch |
 |  4 |  Fri, June 11               |Workshop on Pride and Technology  | LGBTQ Podcast |
 |  5 |  Wed, June 16               |Guest Speaker, LGBTQ awareness | RD Audio Recording |
-|  6 |  Fri, June 18               |Podcast Pitch and Mentor Meeting| Women in Tech Podcast |
-|  7 |  Wed, June 23               |Guest Speaker:Look what she did  | Make School Presentation |
+|  6 |  Fri, June 18               |Podcast Pitch Presentation and Mentor Meeting| Women in Tech Podcast |
+|  7 |  Wed, June 23               |Guest Speaker:Look what she did  | Mentee Presentation |
 |  8 |  Fri, June 25               |Mentorship Meeting  | Podcast Artwork |
 |  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | Podcast Script |
 |  10 |  Fri, July 2               |Mentorship Meeting | Microaggressions Podcast |
 |  11 |  Wed, July 7               | Microaggressions Workshop  | Self Reflection |
 |  12 |  Fri, July 9              | Mentorship Meeting | Disabilities Podcast  |
-|  13 |  Wed, July 14               | Guest Speaker: Disabilities and Tech | |
+|  13 |  Wed, July 14               | Guest Speaker: Disabilities and Tech | Peer Review |
 |  14 |  Fri, July 16               | Mentorship Meeting | Workplace Culture Podcast |
-|  15  |  Wed, July 21              | Workshop:Culture in the Workplace|  Podcast and Reflection |
+|  15  |  Wed, July 21              | Workshop:Culture in the Workplace|  Final Podcast|
 |  16 |   Fri, July 23               | Mentorship Meeting | Engineering Peace Podcast |
 |  17 |   Wed, July 28               | Engineering Peace | Podcast Presentation |
 |  18 |   Fri, July 30              | Goodbye to Mentees |Feedback on Podcast Presentation |
@@ -88,13 +88,14 @@ All assignments are due **before class** on the due date stated
 
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
-|  [Podcast Pitch]              |  |         |
-|  [Podcast Pitch Presentation]              |  |          |
-|  [RD Audio Recording]              |   |   |
-|  [Self Reflection]              |   |   |
-|  [Podcast Artwork]              |   |   |
-|  [Podcast Script]              |  |   |
-|  [Podcast and Reflection]              |   |  |
+|  [Podcast Pitch]              | June 9th |         | June 18th |
+|  [RD Audio Recording]              | June 16th  | June 23rd   |
+|  [Podcast Artwork]              | June 25th   | July 2nd   |
+|  [Podcast Script]              | June 30th | July 14th  |
+|  [Self Reflection]              | July 7th  | July 14th  |
+|  [Peer Review]              | July 14th  |  July 21st |
+|  [Final Podcast]              | July 21st  | July 30th |
+| Weekly Podcast Homework | See Asynchronous Activities above|
 
 
 
@@ -123,7 +124,7 @@ To pass this course you must meet the following requirements:
 |**Participation**: Attendance, active participation in zoom and in class google docs; online asynchronous assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
 |**Self Reflection Paper**: Students will give feedback and write one reflective paper based on their experience as a mentor. Students are expected to meet a minimum score of 3-4 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  10%  |  3-4  |
 |**Mentorship meetings**: Students must participate in weekly virtual meetings with students in Make School summer academy in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  |  20%  |  N/A  |
-|**Presentations: Make School and Coaching**: Students will present to mentees and classmates.   Students are expected to meet a minimum score of 3-4 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  3-4  |
+|**Presentations**: Students will present to mentees and classmates.   Students are expected to meet a minimum score of 3-4 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  3-4  |
 |**Final Podcast**: Group Podcast on topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 3-4 on the [Digital Project Rubric](https://docs.google.com/document/d/1rJHId-BlEjw0wlePl6-OnLXiBqVAeo3chlIfGaGODKg/edit) |  40%  |  3-4  |
 
 ***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
