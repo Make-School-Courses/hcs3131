@@ -88,7 +88,7 @@ All assignments are due **before class** on the due date stated
 
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
-|  [Podcast Pitch]              | June 9th |         | June 18th |
+|  [Podcast Pitch]              | June 9th |    June 18th |
 |  [RD Audio Recording]              | June 16th  | June 23rd   |
 |  [Podcast Artwork]              | June 25th   | July 2nd   |
 |  [Podcast Script]              | June 30th | July 14th  |
