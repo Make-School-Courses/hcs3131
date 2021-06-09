@@ -88,13 +88,13 @@ All assignments are due **before class** on the due date stated
 
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
-|  [Podcast Pitch]              | June 9th |    June 18th |
-|  [RD Audio Recording]              | June 16th  | June 23rd   |
-|  [Podcast Artwork]              | June 25th   | July 2nd   |
-|  [Podcast Script]              | June 30th | July 14th  |
-|  [Self Reflection]              | July 7th  | July 14th  |
-|  [Peer Review]              | July 14th  |  July 21st |
-|  [Final Podcast]              | July 21st  | July 30th |
+|  [Podcast Pitch](https://docs.google.com/document/d/1LeILM19mO6_VUA8tuheSna8T0KRezVbDDT041i_RBlQ/edit?usp=sharing)              | June 9th |    June 18th |
+|  [RD Audio Recording](https://docs.google.com/document/d/1QNw2SYoueL0-BkADI-VA1Xm5TMHtXPMs9871zkykXg8/edit?usp=sharing)              | June 16th  | June 23rd   |
+|  [Podcast Artwork](https://docs.google.com/document/d/1vhuKvRIQIGw2pY3av9pmh_7ptwxIiIbqTz18dI5je_I/edit?usp=sharing)              | June 25th   | July 2nd   |
+|  [Podcast Script](https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing)              | June 30th | July 14th  |
+|  [Self Reflection](https://docs.google.com/document/d/1lirled7olWkSlGYwO42biPM5gsHp7fZD5VlAFArrsnY/edit?usp=sharing)              | July 7th  | July 14th  |
+|  [Peer Review](https://docs.google.com/document/d/1XhHXc-yzAEKDL7XJoZ1jq0YbfjKk30iGzw0z0XqYAGw/edit)              | July 14th  |  July 21st |
+|  [Final Podcast](https://docs.google.com/document/d/13cB7VGzcZhOBJogfKfNX6v41s56cptOI_iWAtuNCgvs/edit?usp=sharing)              | July 21st  | July 30th |
 | Weekly Podcast Homework | See Asynchronous Activities above|
 
 
