@@ -62,7 +62,7 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|
 |  1 |  Wed, June 2               | Introduction |  N/A |
 |  2 |  Fri, June 4              |[Introduction](https://docs.google.com/presentation/d/173ovNCkaQ-GXwi4U30qPyLCUsWfNUD5mh8FKV8CGRjc/edit#slide=id.p)  | [Podcast Topics](https://docs.google.com/document/d/1K1eZa19agbiHNFY5a3IajVF_dv7U1_rR9oe5Ey4BfK4/edit?usp=sharing) |
-|  3 |  Wed, June 9               | Podcast and Mentorship| Podcast Pitch |
+|  3 |  Wed, June 9               | [Podcast and Mentorship](https://docs.google.com/presentation/d/19nKHjxZZqhygYNHp7a50Y93uCnzjA_Epek9ArQXoaok/edit?usp=sharing)| [Podcast Pitch](https://docs.google.com/document/d/1LeILM19mO6_VUA8tuheSna8T0KRezVbDDT041i_RBlQ/edit?usp=sharing) |
 |  4 |  Fri, June 11               |Workshop on Pride and Technology  | LGBTQ Podcast |
 |  5 |  Wed, June 16               |Guest Speaker, LGBTQ awareness | RD Audio Recording |
 |  6 |  Fri, June 18               |Podcast Pitch Presentation and Mentor Meeting| Women in Tech Podcast |
