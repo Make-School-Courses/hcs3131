@@ -65,14 +65,14 @@ By the end of the course, you will be able to ...
 |  3 |  Wed, June 9               | [Podcast and Mentorship](https://docs.google.com/presentation/d/19nKHjxZZqhygYNHp7a50Y93uCnzjA_Epek9ArQXoaok/edit?usp=sharing)| [Podcast Pitch](https://docs.google.com/document/d/1LeILM19mO6_VUA8tuheSna8T0KRezVbDDT041i_RBlQ/edit?usp=sharing), [Partner Sign Up](https://docs.google.com/document/d/1A7MfMJasiu8HvdgyAP5qaRDPFtIeWGIxiZU1qPWKY98/edit?usp=sharing) |
 |  4 |  Fri, June 11               |[Workshop on Gender Neutral Pronouns](https://docs.google.com/presentation/d/1-q2KbFJ4B9zl4zO_H2_HvQZflmwFpSsyHnRcOUO51oE/edit?usp=sharing)  | [LGBTQ Podcast](https://docs.google.com/document/d/1FF5Dnyv1fUgjwKE0hyyc6QV5B6Dt2Y1ZyxcvburTDmc/edit?usp=sharing) |
 |  5 |  Wed, June 16               |[Guest Speaker: Sonya Saturday](https://sonyasaturday.com/about) | [RD Audio Recording](https://docs.google.com/document/d/1QNw2SYoueL0-BkADI-VA1Xm5TMHtXPMs9871zkykXg8/edit?usp=sharing) |
-|  6 |  Fri, June 18               |Podcast Pitch Presentation and Mentor Meeting| Women in Tech Podcast |
-|  7 |  Wed, June 23               |Guest Speaker:Look what she did  | Mentee Presentation |
+|  6 |  Fri, June 18               |Asynch: Podcast Pitch Presentation|  |
+|  7 |  Wed, June 23               |Guest Speaker:Disabilities in Tech  | Mentee Presentation |
 |  8 |  Fri, June 25               |Mentorship Meeting  | Podcast Artwork |
 |  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | Podcast Script |
 |  10 |  Fri, July 2               |Mentorship Meeting | Microaggressions Podcast |
 |  11 |  Wed, July 7               | Microaggressions Workshop  | Self Reflection |
 |  12 |  Fri, July 9              | Mentorship Meeting | Disabilities Podcast  |
-|  13 |  Wed, July 14               | Guest Speaker: Disabilities and Tech | Peer Review |
+|  13 |  Wed, July 14               | Guest Speaker:Look what she did | Peer Review |
 |  14 |  Fri, July 16               | Mentorship Meeting | Workplace Culture Podcast |
 |  15  |  Wed, July 21              | Workshop:Culture in the Workplace|  Final Podcast|
 |  16 |   Fri, July 23               | Mentorship Meeting | Engineering Peace Podcast |
