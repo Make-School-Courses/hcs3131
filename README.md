@@ -71,7 +71,7 @@ By the end of the course, you will be able to ...
 |  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | Podcast Script |
 |  10 |  Fri, July 2               |Mentorship Meeting | Microaggressions Podcast |
 |  11 |  Wed, July 7               | Microaggressions Workshop  | Self Reflection |
-|  12 |  Fri, July 9              | Mentorship Meeting | Disabilities Podcast  |
+|  12 |  Fri, July 9              | Mentorship Meeting | Women in Tech Podcast  |
 |  13 |  Wed, July 14               | Guest Speaker:Look what she did | Peer Review |
 |  14 |  Fri, July 16               | Mentorship Meeting | Workplace Culture Podcast |
 |  15  |  Wed, July 21              | Workshop:Culture in the Workplace|  Final Podcast|
