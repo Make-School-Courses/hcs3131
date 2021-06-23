@@ -66,7 +66,7 @@ By the end of the course, you will be able to ...
 |  4 |  Fri, June 11               |[Workshop on Gender Neutral Pronouns](https://docs.google.com/presentation/d/1-q2KbFJ4B9zl4zO_H2_HvQZflmwFpSsyHnRcOUO51oE/edit?usp=sharing)  | [LGBTQ Podcast](https://docs.google.com/document/d/1FF5Dnyv1fUgjwKE0hyyc6QV5B6Dt2Y1ZyxcvburTDmc/edit?usp=sharing) |
 |  5 |  Wed, June 16               |[Guest Speaker: Sonya Saturday](https://sonyasaturday.com/about) | [RD Audio Recording](https://docs.google.com/document/d/1QNw2SYoueL0-BkADI-VA1Xm5TMHtXPMs9871zkykXg8/edit?usp=sharing) |
 |  6 |  Fri, June 18               |Asynch: Podcast Pitch Presentation|  |
-|  7 |  Wed, June 23               |Guest Speaker:Disabilities in Tech  | Mentee Presentation |
+|  7 |  Wed, June 23               |[Guest Speaker:Ifi Akpandak](https://docs.google.com/presentation/d/1CF36NszKXBP-8tpFuHHKeryL1dj2jnYzgbRIn2U8EyQ/edit?usp=sharing)  | [Mentee Presentation](https://docs.google.com/document/d/1LJiad1PlMWqSobLXEwjiLoh8ljAiw5hzEasfzR66SPE/edit?usp=sharing) |
 |  8 |  Fri, June 25               |Mentorship Meeting  | Podcast Artwork |
 |  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | Podcast Script |
 |  10 |  Fri, July 2               |Mentorship Meeting | Microaggressions Podcast |
