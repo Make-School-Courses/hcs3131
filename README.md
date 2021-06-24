@@ -67,7 +67,7 @@ By the end of the course, you will be able to ...
 |  5 |  Wed, June 16               |[Guest Speaker: Sonya Saturday](https://sonyasaturday.com/about) | [RD Audio Recording](https://docs.google.com/document/d/1QNw2SYoueL0-BkADI-VA1Xm5TMHtXPMs9871zkykXg8/edit?usp=sharing) |
 |  6 |  Fri, June 18               |Asynch: Podcast Pitch Presentation|  |
 |  7 |  Wed, June 23               |[Guest Speaker:Ifi Akpandak](https://docs.google.com/presentation/d/1CF36NszKXBP-8tpFuHHKeryL1dj2jnYzgbRIn2U8EyQ/edit?usp=sharing)  | [Mentee Presentation](https://docs.google.com/document/d/1LJiad1PlMWqSobLXEwjiLoh8ljAiw5hzEasfzR66SPE/edit?usp=sharing) |
-|  8 |  Fri, June 25               |Mentorship Meeting  | [Podcast Inclusive STEM] (https://docs.google.com/document/d/1DRhYMP3MnR9ivv3B9acpYQEj9vlTKyvtKXc5yDczjd0/edit?usp=sharing), [Podcast Artwork](https://docs.google.com/document/d/1vhuKvRIQIGw2pY3av9pmh_7ptwxIiIbqTz18dI5je_I/edit?usp=sharing) |
+|  8 |  Fri, June 25               |Mentorship Meeting  | [Inclusivity in STEM Podcast](https://docs.google.com/document/d/1DRhYMP3MnR9ivv3B9acpYQEj9vlTKyvtKXc5yDczjd0/edit?usp=sharing), [Podcast Artwork](https://docs.google.com/document/d/1vhuKvRIQIGw2pY3av9pmh_7ptwxIiIbqTz18dI5je_I/edit?usp=sharing) |
 |  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | [Podcast Script](https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing) |
 |  10 |  Fri, July 2               |Mentorship Meeting | Microaggressions Podcast |
 |  11 |  Wed, July 7               | Microaggressions Workshop  | Self Reflection |
