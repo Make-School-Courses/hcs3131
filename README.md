@@ -72,7 +72,7 @@ By the end of the course, you will be able to ...
 |  10 |  Fri, July 2               |[Mentorship Meeting](https://docs.google.com/presentation/d/1nVVMfHfVazfU6SSmHTW8lUohkLofdF4FvhBgkKtyTh4/edit#slide=id.g8c35e40ef3_0_17) | [Microaggressions Homework](https://docs.google.com/document/d/1RUUAtybijklmpXRvIYqP7GJxr19YerDbeddYN9Ohvb4/edit?usp=sharing) |
 |  11 |  Wed, July 7               | [Microaggressions Workshop](https://docs.google.com/presentation/d/1-sFCCaRJLJe64EH1ehOPMS8gxQzU9kzQqP-0oOHhH1E/edit?usp=sharing)  | [Self Reflection](https://docs.google.com/document/d/1lirled7olWkSlGYwO42biPM5gsHp7fZD5VlAFArrsnY/edit?usp=sharing) |
 |  12 |  Fri, July 9              | Asynchronous Mentorship Meeting | Finish Podcast Script |
-|  13 |  Wed, July 14               | Guest Speaker: Disabilities in Tech| Peer Review |
+|  13 |  Wed, July 14               | Guest Speaker: DEI in STEM| Peer Review |
 |  14 |  Fri, July 16               | Mentorship Meeting | Engineering Peace Podcast  |
 |  15  |  Wed, July 21              | Workshop:Intercultural Communication|  Final Podcast|
 |  16 |   Fri, July 23               | Mentorship Meeting | Women in Tech Podcast |
