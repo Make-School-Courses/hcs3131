@@ -70,8 +70,8 @@ By the end of the course, you will be able to ...
 |  8 |  Fri, June 25               |[Mentorship Meeting](https://docs.google.com/presentation/d/1bIhPt97hJjKX57j3EJ4SsypOdQSHnfCT2AcMzT_Mrwo/edit?usp=sharing)  | [Inclusivity in STEM Podcast](https://docs.google.com/document/d/1DRhYMP3MnR9ivv3B9acpYQEj9vlTKyvtKXc5yDczjd0/edit?usp=sharing), [Podcast Artwork](https://docs.google.com/document/d/1vhuKvRIQIGw2pY3av9pmh_7ptwxIiIbqTz18dI5je_I/edit?usp=sharing) |
 |  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | [Podcast Script](https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing) |
 |  10 |  Fri, July 2               |[Mentorship Meeting](https://docs.google.com/presentation/d/1nVVMfHfVazfU6SSmHTW8lUohkLofdF4FvhBgkKtyTh4/edit#slide=id.g8c35e40ef3_0_17) | [Microaggressions Homework](https://docs.google.com/document/d/1RUUAtybijklmpXRvIYqP7GJxr19YerDbeddYN9Ohvb4/edit?usp=sharing) |
-|  11 |  Wed, July 7               | Microaggressions Workshop  | Self Reflection |
-|  12 |  Fri, July 9              | Asynchronous Mentorship Meeting |  |
+|  11 |  Wed, July 7               | [Microaggressions Workshop](https://docs.google.com/presentation/d/1-sFCCaRJLJe64EH1ehOPMS8gxQzU9kzQqP-0oOHhH1E/edit?usp=sharing)  | [Self Reflection](https://docs.google.com/document/d/1lirled7olWkSlGYwO42biPM5gsHp7fZD5VlAFArrsnY/edit?usp=sharing) |
+|  12 |  Fri, July 9              | Asynchronous Mentorship Meeting | Finish Podcast Script |
 |  13 |  Wed, July 14               | Guest Speaker: Disabilities in Tech| Peer Review |
 |  14 |  Fri, July 16               | Mentorship Meeting | Engineering Peace Podcast  |
 |  15  |  Wed, July 21              | Workshop:Intercultural Communication|  Final Podcast|
