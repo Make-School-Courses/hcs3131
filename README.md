@@ -71,13 +71,13 @@ By the end of the course, you will be able to ...
 |  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | [Podcast Script](https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing) |
 |  10 |  Fri, July 2               |[Mentorship Meeting](https://docs.google.com/presentation/d/1nVVMfHfVazfU6SSmHTW8lUohkLofdF4FvhBgkKtyTh4/edit#slide=id.g8c35e40ef3_0_17) | [Microaggressions Homework](https://docs.google.com/document/d/1RUUAtybijklmpXRvIYqP7GJxr19YerDbeddYN9Ohvb4/edit?usp=sharing) |
 |  11 |  Wed, July 7               | [Microaggressions Workshop](https://docs.google.com/presentation/d/1-sFCCaRJLJe64EH1ehOPMS8gxQzU9kzQqP-0oOHhH1E/edit?usp=sharing)  | [Self Reflection](https://docs.google.com/document/d/1lirled7olWkSlGYwO42biPM5gsHp7fZD5VlAFArrsnY/edit?usp=sharing) |
-|  12 |  Fri, July 9              | Asynchronous Mentorship Meeting | Finish Podcast Script |
-|  13 |  Wed, July 14               | Guest Speaker: DEI in STEM| Peer Review |
-|  14 |  Fri, July 16               | Mentorship Meeting | Engineering Peace Podcast  |
-|  15  |  Wed, July 21              | Workshop:Intercultural Communication|  Final Podcast|
-|  16 |   Fri, July 23               | Mentorship Meeting | Women in Tech Podcast |
-|  17 |   Wed, July 28               |Guest Speaker: Look what she did | Podcast Presentation |
-|  18 |   Fri, July 30              | Podcast Presentations |Feedback on Podcast Presentation |
+|  12 |  Fri, July 9              | Asynchronous Mentorship Meeting | Work On Podcast Script |
+|  13 |  Wed, July 14               | [Guest Speaker: DEI in STEM](https://docs.google.com/presentation/d/1M1PdKfcszk_0O85syuEw8G1TmAoKIAJ0eUjV6nuohWE/edit?usp=sharing)|  |
+|  14 |  Fri, July 16               | Mentorship Meeting | [Gender Podcast](https://docs.google.com/document/d/1WTBn25Dnu6rSJf1UHglyLeJ9s2cVmVH8P9OT80P3LPE/edit)  |
+|  15  |  Wed, July 21              | Workshop:Intercultural Communication|  [Final Podcast](https://docs.google.com/document/d/13cB7VGzcZhOBJogfKfNX6v41s56cptOI_iWAtuNCgvs/edit)|
+|  16 |   Fri, July 23               | Mentorship Meeting | Work on Podcast |
+|  17 |   Wed, July 28               |Guest Speaker: Look what she did | Work On Podcast Presentation |
+|  18 |   Fri, July 30              | Podcast Presentations | |
 
 
 
