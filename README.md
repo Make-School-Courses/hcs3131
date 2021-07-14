@@ -77,7 +77,7 @@ By the end of the course, you will be able to ...
 |  15  |  Wed, July 21              | Workshop:Intercultural Communication|  [Final Podcast](https://docs.google.com/document/d/13cB7VGzcZhOBJogfKfNX6v41s56cptOI_iWAtuNCgvs/edit)|
 |  16 |   Fri, July 23               | Mentorship Meeting | Work on Podcast |
 |  17 |   Wed, July 28               |Guest Speaker: Look what she did | Work On Podcast Presentation |
-|  18 |   Fri, July 30              | Podcast Presentations | |
+|  18 |   Fri, July 30              | Final Class | |
 
 
 
