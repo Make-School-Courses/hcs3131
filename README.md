@@ -74,7 +74,7 @@ By the end of the course, you will be able to ...
 |  12 |  Fri, July 9              | Asynchronous Mentorship Meeting | Work On Podcast Script |
 |  13 |  Wed, July 14               | [Guest Speaker: DEI in STEM](https://docs.google.com/presentation/d/1M1PdKfcszk_0O85syuEw8G1TmAoKIAJ0eUjV6nuohWE/edit?usp=sharing)|  |
 |  14 |  Fri, July 16               |Asynchronous Mentorship Meeting | [Gender Podcast](https://docs.google.com/document/d/1WTBn25Dnu6rSJf1UHglyLeJ9s2cVmVH8P9OT80P3LPE/edit)  |
-|  15  |  Wed, July 21              | Workshop:Intercultural Communication|  [Final Podcast](https://docs.google.com/document/d/13cB7VGzcZhOBJogfKfNX6v41s56cptOI_iWAtuNCgvs/edit)|
+|  15  |  Wed, July 21              | [Workshop:Intercultural Communication](https://docs.google.com/presentation/d/1WvFFaukDJK9flBk5OyBAsF8RJ4GhHhg3d9_EqNUrXr8/edit?usp=sharing)|  [Final Podcast](https://docs.google.com/document/d/13cB7VGzcZhOBJogfKfNX6v41s56cptOI_iWAtuNCgvs/edit)|
 |  16 |   Fri, July 23               | Mentorship Meeting | Work on Podcast |
 |  17 |   Wed, July 28               |Guest Speaker: Look what she did | Work On Podcast Presentation |
 |  18 |   Fri, July 30              | Final Class | |
