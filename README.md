@@ -59,7 +59,8 @@ By the end of the course, you will be able to ...
 **Class Times:** Wednesday/Friday at 12:45pm–2:15pm (+ asynchronous activities)
 
 | Class |          Date          |                 Synchronous                  |  Asynchronous          |         Homework        |
-|:-----:|:----------------------:|:---------------------------------------:|:----------------------:|
+|:-----:|:----------------------:|:---------------------------------------:|:----------------------:|:------------------------:|
+
 |  1 |  Wed, June 2               | Introduction to Class |  Syllabus Test |  Reading 1
 |  2 |  Fri, June 4              |[Podcast and Mentorship](https://docs.google.com/presentation/d/173ovNCkaQ-GXwi4U30qPyLCUsWfNUD5mh8FKV8CGRjc/edit#slide=id.p)  | [Podcast Topics](https://docs.google.com/document/d/1K1eZa19agbiHNFY5a3IajVF_dv7U1_rR9oe5Ey4BfK4/edit?usp=sharing) | Listening Activty
 |  3 |  Wed, June 9               | [Identity](https://docs.google.com/presentation/d/19nKHjxZZqhygYNHp7a50Y93uCnzjA_Epek9ArQXoaok/edit?usp=sharing)| Module 1   |  [Podcast Pitch](https://docs.google.com/document/d/1LeILM19mO6_VUA8tuheSna8T0KRezVbDDT041i_RBlQ/edit?usp=sharing), [Partner Sign Up](https://docs.google.com/document/d/1A7MfMJasiu8HvdgyAP5qaRDPFtIeWGIxiZU1qPWKY98/edit?usp=sharing) |
