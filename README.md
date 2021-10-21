@@ -7,7 +7,7 @@
 # Technology and Equity
 
 ![Diversity and Inclusion](Diversity.png)
-![DEI](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftracyvanderschyff.com%2F2018%2F02%2F18%2Fdiversity-roles-responsibilities-in-tech%2F&psig=AOvVaw276IX9nBCgj_jy95hbI2D4&ust=1634924365728000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiChIaG3PMCFQAAAAAdAAAAABAD)
+![DEI](https://photos.app.goo.gl/ujwXEeY2vveEdqsR8)
 
 ## Course Description
 
