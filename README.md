@@ -22,7 +22,7 @@ Technology and Equity satisfies one of Science and Letters CORE categories requi
 
 **Zoom link**: [make.sc/justine-zoom](make.sc/justine-zoom)
 
-**Slack Channel**: #hcs3131sp2021
+**Slack Channel**: #hcs3131summer21
 This platform will be used for Q&As during check-in activities and burning questions your classmates can help clarify, e.g., “Where are the teaching slides?” or “What time is class again?”
 
 **My Personal Slack**: @justinemeyr
@@ -33,7 +33,7 @@ You can expect a reply from me within 24-hours; Likewise, I expect a response fr
 
 **My Email**:justine@makeschool.com
 
-**Course Delivery**: online | 15 sessions
+**Course Delivery**: online | 9 weeks
 
 **Course Credits**: 4 units
 
@@ -54,91 +54,53 @@ By the end of the course, you will be able to ...
 
 
 
-**Course Dates:** Friday, January 22 – Friday, May 14, 2021 (17 weeks)
+**Course Dates:** Wednesday/Friday, June 2 – July 30, 2021 (9 weeks)
 
-**Class Times:** Friday at 9:30am–12:30pm (15 class sessions)
+**Class Times:** Wednesday/Friday at 12:45pm–2:15pm (+ asynchronous activities)
 
-| Class |          Date          |                 Topics                  |  Homework          |
+| Class |          Date          |                 Topics                  |  Asynchronous          |
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|
-|  1 |  Fri, Jan 22               | [Introduction] |  [Assignment 1]  |
-|  2 |  Fri, Jan 29               | [Mentorship Meeting 1] |[Assigned reading and podcast]  |
-|  3 |  Fri, Feb 5                | [Gender: Diversity, Inclusion and Belonging] |[Podcasts]  |
-|  4 |  Fri, Feb 12               | [Guest Speaker: Justin Samuels] |[Podcasts and Readings]  |
-|  5 |  Fri, Feb 19               | [A Culture of Inclusion] |[Podcasts 2]  |
-|  6 |  Fri, Feb 26               | [Librarian: Nnekay FitzClarke] |[Podcast Pitch]  |
-|  7 |  Fri, Mar 5                | [Microagressions Workshop] |[Sign Up for Meetings]  |
-| -  |  Fri, Mar 12               | **No Class - Spring Break** |
-| 8  |  Fri, Mar 19               | ***Individual Meetings, No Class*** |    
-| 9 |   Fri, Mar 26               | [Mentorship Meeting 2 & Guest Speaker] |[Self Reflection]  |
-| -  |  Fri, Apr 2                | **No Class - Good Friday**  |
-| 10 |  Fri, Apr 9                | [Podcast Pitch Class Presentations] |  [Podcast Artwork]
-| 11 |  Fri, Apr 16               | [Microaggressions Revisted, script writing] | [Podcast Script]
-| 12 |  Fri, Apr 23               | [Algorithmic Justice and Peer Review] |  [Peer Review]
-| 13 |  Fri, Apr 30               | [Mentorship Meeting 3] |  [Podcast Peacetech Lab]
-| 14 |  Fri, May 7                | [Engineering Peace] |  
-| 15 |  Fri, May 14                | Podcasts/Presentations  |
+|  1 |  Wed, June 2               | Introduction |  N/A |
+|  2 |  Fri, June 4              |[Introduction](https://docs.google.com/presentation/d/173ovNCkaQ-GXwi4U30qPyLCUsWfNUD5mh8FKV8CGRjc/edit#slide=id.p)  | [Podcast Topics](https://docs.google.com/document/d/1K1eZa19agbiHNFY5a3IajVF_dv7U1_rR9oe5Ey4BfK4/edit?usp=sharing) |
+|  3 |  Wed, June 9               | [Podcast and Mentorship](https://docs.google.com/presentation/d/19nKHjxZZqhygYNHp7a50Y93uCnzjA_Epek9ArQXoaok/edit?usp=sharing)| [Podcast Pitch](https://docs.google.com/document/d/1LeILM19mO6_VUA8tuheSna8T0KRezVbDDT041i_RBlQ/edit?usp=sharing), [Partner Sign Up](https://docs.google.com/document/d/1A7MfMJasiu8HvdgyAP5qaRDPFtIeWGIxiZU1qPWKY98/edit?usp=sharing) |
+|  4 |  Fri, June 11               |[Workshop on Gender Neutral Pronouns](https://docs.google.com/presentation/d/1-q2KbFJ4B9zl4zO_H2_HvQZflmwFpSsyHnRcOUO51oE/edit?usp=sharing)  | [LGBTQ Podcast](https://docs.google.com/document/d/1FF5Dnyv1fUgjwKE0hyyc6QV5B6Dt2Y1ZyxcvburTDmc/edit?usp=sharing) |
+|  5 |  Wed, June 16               |[Guest Speaker: Sonya Saturday](https://sonyasaturday.com/about) | [RD Audio Recording](https://docs.google.com/document/d/1QNw2SYoueL0-BkADI-VA1Xm5TMHtXPMs9871zkykXg8/edit?usp=sharing) |
+|  6 |  Fri, June 18               |Asynch: Podcast Pitch Presentation|  |
+|  7 |  Wed, June 23               |[Guest Speaker:Ifi Akpandak](https://docs.google.com/presentation/d/1CF36NszKXBP-8tpFuHHKeryL1dj2jnYzgbRIn2U8EyQ/edit?usp=sharing)  | [Mentee Presentation](https://docs.google.com/document/d/1LJiad1PlMWqSobLXEwjiLoh8ljAiw5hzEasfzR66SPE/edit?usp=sharing) |
+|  8 |  Fri, June 25               |[Mentorship Meeting](https://docs.google.com/presentation/d/1bIhPt97hJjKX57j3EJ4SsypOdQSHnfCT2AcMzT_Mrwo/edit?usp=sharing)  | [Inclusivity in STEM Podcast](https://docs.google.com/document/d/1DRhYMP3MnR9ivv3B9acpYQEj9vlTKyvtKXc5yDczjd0/edit?usp=sharing), [Podcast Artwork](https://docs.google.com/document/d/1vhuKvRIQIGw2pY3av9pmh_7ptwxIiIbqTz18dI5je_I/edit?usp=sharing) |
+|  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | [Podcast Script](https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing) |
+|  10 |  Fri, July 2               |[Mentorship Meeting](https://docs.google.com/presentation/d/1nVVMfHfVazfU6SSmHTW8lUohkLofdF4FvhBgkKtyTh4/edit#slide=id.g8c35e40ef3_0_17) | [Microaggressions Homework](https://docs.google.com/document/d/1RUUAtybijklmpXRvIYqP7GJxr19YerDbeddYN9Ohvb4/edit?usp=sharing) |
+|  11 |  Wed, July 7               | [Microaggressions Workshop](https://docs.google.com/presentation/d/1-sFCCaRJLJe64EH1ehOPMS8gxQzU9kzQqP-0oOHhH1E/edit?usp=sharing)  | [Self Reflection](https://docs.google.com/document/d/1lirled7olWkSlGYwO42biPM5gsHp7fZD5VlAFArrsnY/edit?usp=sharing) |
+|  12 |  Fri, July 9              | Asynchronous Mentorship Meeting | Work On Podcast Script |
+|  13 |  Wed, July 14               | [Guest Speaker: DEI in STEM](https://docs.google.com/presentation/d/1M1PdKfcszk_0O85syuEw8G1TmAoKIAJ0eUjV6nuohWE/edit?usp=sharing)|  |
+|  14 |  Fri, July 16               |Asynchronous Mentorship Meeting | [Gender Podcast](https://docs.google.com/document/d/1WTBn25Dnu6rSJf1UHglyLeJ9s2cVmVH8P9OT80P3LPE/edit)  |
+|  15  |  Wed, July 21              | [Workshop:Intercultural Communication](https://docs.google.com/presentation/d/1WvFFaukDJK9flBk5OyBAsF8RJ4GhHhg3d9_EqNUrXr8/edit?usp=sharing)|  [Final Podcast](https://docs.google.com/document/d/13cB7VGzcZhOBJogfKfNX6v41s56cptOI_iWAtuNCgvs/edit)|
+|  16 |   Fri, July 23               | Mentorship Meeting | Work on Podcast |
+|  17 |   Wed, July 28               |Guest Speaker: Look what she did | Work On Podcast Presentation |
+|  18 |   Fri, July 30              | Final Class | |
 
 
 
-
-
-
-[Introduction]: https://docs.google.com/presentation/d/1JdgnzmMBhBa39sTSM0b6D-5HwQQLmUldL61owbNyvUc/edit?usp=sharing
-[Mentorship Meeting 1]: https://docs.google.com/document/d/1F7TBcSD-HIvzEE6FaenKgn05blPeLDIg6BW0A4mROtw/edit?usp=sharing
-[Gender: Diversity, Inclusion and Belonging]:https://docs.google.com/presentation/d/1Y22E9UIn1RVYyRRirxdTWLMAnzHV3Q-Eg-7GUZ0vCaY/edit?usp=sharing
-[Guest Speaker: Justin Samuels]: https://docs.google.com/presentation/d/10jeRR6dbqadq1vpZnPuCsn7Q6azPXHv83Csm3Q8TnaA/edit?usp=sharing
-[A Culture of Inclusion]:https://docs.google.com/presentation/d/1m8y5r54-_k6WFsE-G2_xvq5JWHj-PriE6L0CEdYFKMo/edit?usp=sharing
-[Librarian: Nnekay FitzClarke]: https://docs.google.com/presentation/d/1fg4jJW3S5x6vY4tNM13zHccjKf7kyF_XY7ysSYGMR5g/edit?usp=sharing
-[Microagressions Workshop]:https://docs.google.com/presentation/d/1YwFd3dZeDbnocth_EUJba6oww_ZQErOEDFjvOJZreZo/edit?usp=sharing
-[Mentorship Meeting 2 & Guest Speaker]:https://docs.google.com/document/d/1pRvzBYsQpKMYLE_YZUrdCnlYe9DeAO8Oz5iSjx5mbbc/edit?usp=sharing
-[Podcast Pitch Class Presentations]:https://docs.google.com/presentation/d/1qa_BIIP_u06SGwohFtPtDAIHZSX-T9EYHIecjHHuPqw/edit?usp=sharing
-[Microaggressions Revisted, script writing]: https://docs.google.com/presentation/d/1JIbO3LVxu1cGqxggOYyFWSsbccbOxUxsjaIYGFQYJYY/edit?usp=sharing
-[Algorithmic Justice and Peer Review]: https://docs.google.com/presentation/d/1DFW3EKsOKkUWdWOqAds3v3e0TDDimuHbDo143XznQUA/edit?usp=sharing
-[Mentorship Meeting 3]:https://docs.google.com/document/d/1M6dygfEdwgGmN1BPdWwvsaRAuxPJY9BScfie6w2ayV0/edit?usp=sharing
-[Engineering Peace]:https://docs.google.com/presentation/d/1vE_ImFxDsk4vXkVsbHO9q0GMko4l2v0S2OItYxwf0e8/edit?usp=sharing
-
-[Assignment 1]: https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
-[Assigned reading and podcast]:https://docs.google.com/document/d/10W2ZtMeLy8QVPjK9Bo1_5FrQV08wjgrVJdEqwP9qZtg/edit?usp=sharing
-[Podcasts]:https://docs.google.com/document/d/1L2dlvso90y-zb7cWa7SD9eVTGlfrdcTi7DhuzQHWWpg/edit?usp=sharing
-[Podcasts and Readings]:https://docs.google.com/document/d/1aR6ShTLHxlzLPeqppInml3ZX4jbJWhUEgrOvl9ZzmyE/edit
-[Podcasts 2]:https://docs.google.com/document/d/1572kHnqTcQE9itAa1ejHF5EOqF_5hnicaSmCECPm3Ak/edit
-[Podcast Pitch]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit?usp=sharing
-[Sign Up for Meetings]:https://docs.google.com/document/d/1p2_-GRjtQfU26lp2Lrm70SWIS88Lq0ybaWjmCIKOrak/edit?usp=sharing
-[Self Reflection]:https://docs.google.com/document/d/1dYvAOC8YktxTX0FVisXVga2nBeZvx4oPwcSd_oQIU8Q/edit?usp=sharing
-[Podcast Artwork]:https://docs.google.com/document/d/1brTiGWqW0l-Hu9bB3QzOe5dAZ8iiE_2wLHvsS3ddWMY/edit?usp=sharing
-[Peer Review]:https://docs.google.com/document/d/1QgWze327Vv1a-jB-0pZdcrZCD6J25g2tXeLjg0t8JI8/edit
-[Podcast Peacetech Lab]:https://docs.google.com/document/d/1d8big2scqWIhDlleRNCX5DAlrMYSYs6YG5JRBGo8bfE/edit
 
 
 ## Assignment Schedule
-All assignments are due **9am PST** on the due date stated
+All assignments are due **before class** on the due date stated
 
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
-|  [Mentorship Agreement] and [Assignment 1]             | Fri, Jan 22 |      Wed, Jan 27     |
-|  [Podcast Pitch]              | Fri, Feb 26 |      Fri, March 5     |
-|  [Podcast Pitch Presentation]              | Fri, Feb 26 |      Fri, April 9     |
-|  [RD Audio Recording]              | Fri, Mar 5   | Fri, Mar 26   |
-|  [Self Reflection]              | Fri, Mar 26   | Fri, April 9   |
-|  [Podcast Artwork]              | Fri, April 9   | Fri, April 16   |
-|  [Podcast Script]              | Fri, April 9   | Fri, Apr 23, Apr 30   |
-|  [Podcast and Reflection]              | Fri, Apr 23   | Fri, May 14  |
-
-[Mentorship Agreement]:https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing
-[Assignment 1]:https://docs.google.com/document/d/1UZVeGmwmj8NwM29Ry4m0Y63N_YC9Y2Mh65WCYNsXqvI/edit
-[Podcast Pitch]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit?usp=sharing
-[Podcast Pitch Presentation]:https://docs.google.com/document/d/1t_6LY3pMSWItM9lwW_tDQGxAM_5QrAieoz-ybb1RgSM/edit
-[RD Audio Recording]:https://docs.google.com/document/d/1KFQIBebmc13xEnhMvR8xVXJq6tv32W7eQBfVaHUB5Tg/edit?usp=sharing
-[Self Reflection]:https://docs.google.com/document/d/1dYvAOC8YktxTX0FVisXVga2nBeZvx4oPwcSd_oQIU8Q/edit?usp=sharing
-[Podcast Artwork]:https://docs.google.com/document/d/1brTiGWqW0l-Hu9bB3QzOe5dAZ8iiE_2wLHvsS3ddWMY/edit?usp=sharing
-[Podcast Script]:https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing
-[Podcast and Reflection]: https://docs.google.com/document/d/1TWrVFoyeNVoV6S46XnVTIpFqionyihLfDXiq2jWwdL0/edit?usp=sharing
+|  [Podcast Pitch](https://docs.google.com/document/d/1LeILM19mO6_VUA8tuheSna8T0KRezVbDDT041i_RBlQ/edit?usp=sharing)              | June 9th |    June 18th |
+|  [RD Audio Recording](https://docs.google.com/document/d/1QNw2SYoueL0-BkADI-VA1Xm5TMHtXPMs9871zkykXg8/edit?usp=sharing)              | June 16th  | June 23rd   |
+|  [Podcast Artwork](https://docs.google.com/document/d/1vhuKvRIQIGw2pY3av9pmh_7ptwxIiIbqTz18dI5je_I/edit?usp=sharing)              | June 25th   | July 2nd   |
+|  [Podcast Script](https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing)              | June 30th | July 14th  |
+|  [Self Reflection](https://docs.google.com/document/d/1lirled7olWkSlGYwO42biPM5gsHp7fZD5VlAFArrsnY/edit?usp=sharing)              | July 7th  | July 9th  |
+|  [Final Podcast](https://docs.google.com/document/d/13cB7VGzcZhOBJogfKfNX6v41s56cptOI_iWAtuNCgvs/edit?usp=sharing)              | July 21st  | July 30th |
+| Weekly Podcast Homework | See Asynchronous Activities above|
 
 
 
 ## Class Assignments
 
-We will be using [Gradescope](https://www.gradescope.com/courses/235159), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+We will be using [Gradescope](https://www.gradescope.com/courses/271740), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
@@ -154,15 +116,15 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 - Participate in the Mentorship component of the course
-- Complete all assignments with a minimum rubric score
+- Complete all assignments with a minimum rubric score of 3 or 4
 
 | Assignments |          Weight         |                 Minimum Rubric Score                          |
 |:-----:|:----------------------:|:----------------------------------------------:|
-|**Participation**: Attendance, active participation in zoom and in class google docs; online assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
-|**Self Reflection Paper**: Students will give feedback and write one reflective paper based on their attendance at Balboa High School’s Test Flight Review. Students are expected to meet a minimum score of 2-3 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  10%  |  2-3  |
-|**Mentorship meetings**: Students must participate in 2 virtual meetings with students at [Balboa High School](https://www.sfusd.edu/school/balboa-high-school) in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  See [Mentorship Agreement](https://docs.google.com/document/d/1z8lFFm-B664L9hVk148DcITONbuao47G3FKi8mPmido/edit?usp=sharing). |  20%  |  N/A  |
-|**Presentations: Make School and Coaching**: Students will present Make School to Balboa High School in a 20 minute presentation format in week 2 of class.  In week 9, students will mentor Balboa High School students in their Test Flight Review.   Students are expected to meet a minimum score of 2-3 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  2-3  |
-|**Final Podcast**: Group Podcast on topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 2-3 on the [Digital Project Rubric](https://docs.google.com/document/d/1rJHId-BlEjw0wlePl6-OnLXiBqVAeo3chlIfGaGODKg/edit) |  40%  |  2-3  |
+|**Participation**: Attendance, active participation in zoom and in class google docs; online asynchronous assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
+|**Self Reflection Paper**: Students will give feedback and write one reflective paper based on their experience as a mentor. Students are expected to meet a minimum score of 3-4 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  10%  |  3-4  |
+|**Mentorship meetings**: Students must participate in weekly virtual meetings with students in Make School summer academy in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  |  20%  |  N/A  |
+|**Presentations**: Students will present to mentees and classmates.   Students are expected to meet a minimum score of 3-4 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  3-4  |
+|**Final Podcast**: Group Podcast on topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 3-4 on the [Digital Project Rubric](https://docs.google.com/document/d/1rJHId-BlEjw0wlePl6-OnLXiBqVAeo3chlIfGaGODKg/edit) |  40%  |  3-4  |
 
 ***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
 
