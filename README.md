@@ -6,7 +6,6 @@
 
 # Technology and Equity
 
-![Diversity and Inclusion](Diversity.png)
 ![Diversity and Inclusion](DEI.png)
 
 ## Course Description
