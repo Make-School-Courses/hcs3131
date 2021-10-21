@@ -7,7 +7,7 @@
 # Technology and Equity
 
 ![Diversity and Inclusion](Diversity.png)
-![DEI](https://photos.app.goo.gl/ujwXEeY2vveEdqsR8)
+![DEI](https://photos.google.com/photo/AF1QipMMkJx3IUfoVvpIcd9wR9kXOK0a5uJWqFLw3Fmk)
 
 ## Course Description
 
