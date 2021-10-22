@@ -10,7 +10,7 @@
 
 ## Course Description
 
-This course will investigate the relevance of gender, race and sexuality to understanding equity in technology and the development of new technologies. We will consider a range of questions including: What are some barriers in equity in Computer Science education? How does an organization promote or impede inequality? In addition, this course will utilize methodologies which promote engagement with local communities to enhance civic knowledge and improve student civic skills.
+This course will investigate the relevance of gender, race, ability and sexuality to understanding equity in technology and the development of new technologies. We will consider a range of questions including: What are some barriers in equity in Computer Science education? How does an organization promote or impede inequality? In addition, this course will utilize methodologies which promote engagement with local communities to enhance civic knowledge and improve student civic skills.
 
 ### Core Curriculum Requirement
 
@@ -32,7 +32,7 @@ You can expect a reply from me within 24-hours; Likewise, I expect a response fr
 
 **My Email**:justine@makeschool.com
 
-**Course Delivery**: online | 9 weeks
+**Course Delivery**: online  | bichronous | 9 weeks
 
 **Course Credits**: 4 units
 
@@ -41,9 +41,9 @@ You can expect a reply from me within 24-hours; Likewise, I expect a response fr
 
 By the end of the course, you will be able to ...
 
-1. Demonstrate an elevated understanding of equity in education and technology
+1. Demonstrate an elevated understanding of equity in education and technology.
 1. Enhance a critical understanding of intersectionality, including an awareness of gender and its complex intersections in relation to technology and computer science.
-1. Cultivate a language framework for thoughtfully articulating critical vocabulary and behaviours in relation to the field of gender, race, sexuality and women’s studies.
+1. Cultivate a language framework for thoughtfully articulating critical vocabulary and behaviours in relation to the field of gender, ability, nationality, race, sexuality and women’s studies.
 1. Develop reading and writing skills through effective synthesis of written material. Practice conveying course concepts in a concise and clear manner both verbally and in writing.
 
 
@@ -59,8 +59,8 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Synchronous                  |  Asynchronous          |         Homework        |
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|:------------------------:|
-|  1 |  Wed, June 2               | Introduction to Class |  Syllabus Test |  Reading 1  |
-|  2 |  Fri, June 4              |[Podcast and Mentorship](https://docs.google.com/presentation/d/173ovNCkaQ-GXwi4U30qPyLCUsWfNUD5mh8FKV8CGRjc/edit#slide=id.p)  | [Podcast Topics](https://docs.google.com/document/d/1K1eZa19agbiHNFY5a3IajVF_dv7U1_rR9oe5Ey4BfK4/edit?usp=sharing) | Listening Activty  |
+|  1 |  Wed, June 2               | [Introduction to Class](https://docs.google.com/presentation/d/1-2-bpReVOLFU6d8gu1pFI1Hg9GR1aDxc/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) |  Syllabus Test |  [Homework 1](https://docs.google.com/document/d/1XzOBQcWRHaD_4bZttGc3s6u4KCeuqrfyiESctj47QeM/edit?usp=sharing)  |
+|  2 |  Fri, June 4              |[Guest Speaker: Andrew Rothman](https://docs.google.com/presentation/d/1dXDNMRM52d64eaZvOJ-8D4wc1rdrLtXM/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)  | [Podcast Topics](https://docs.google.com/document/d/1a7ThWiLSwucSN_HbfXv8J0Zq27ia61Gg/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) | [Homework 2](https://docs.google.com/document/d/138qDiOokoP_-xPCrz5bKjPll2lQ9x4z9MtskAorLLW8/edit?usp=sharing)  |
 |  3 |  Wed, June 9               | [Identity](https://docs.google.com/presentation/d/19nKHjxZZqhygYNHp7a50Y93uCnzjA_Epek9ArQXoaok/edit?usp=sharing)| Module 1   |  [Podcast Pitch](https://docs.google.com/document/d/1LeILM19mO6_VUA8tuheSna8T0KRezVbDDT041i_RBlQ/edit?usp=sharing), [Partner Sign Up](https://docs.google.com/document/d/1A7MfMJasiu8HvdgyAP5qaRDPFtIeWGIxiZU1qPWKY98/edit?usp=sharing) |
 |  4 |  Fri, June 11               |[Workshop on Gender Neutral Pronouns](https://docs.google.com/presentation/d/1-q2KbFJ4B9zl4zO_H2_HvQZflmwFpSsyHnRcOUO51oE/edit?usp=sharing)  | [LGBTQ Podcast](https://docs.google.com/document/d/1FF5Dnyv1fUgjwKE0hyyc6QV5B6Dt2Y1ZyxcvburTDmc/edit?usp=sharing) |
 |  5 |  Wed, June 16               |[Guest Speaker: Sonya Saturday](https://sonyasaturday.com/about) | [RD Audio Recording](https://docs.google.com/document/d/1QNw2SYoueL0-BkADI-VA1Xm5TMHtXPMs9871zkykXg8/edit?usp=sharing) |
