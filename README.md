@@ -60,23 +60,23 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Synchronous                  |  Asynchronous          |         Homework        |
 |:-----:|:----------------------:|:---------------------------------------:|:----------------------:|:------------------------:|
 |  1 |  Wed, June 2               | [Introduction to Class](https://docs.google.com/presentation/d/1-2-bpReVOLFU6d8gu1pFI1Hg9GR1aDxc/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) |  Syllabus Test |  [Homework 1](https://docs.google.com/document/d/1XzOBQcWRHaD_4bZttGc3s6u4KCeuqrfyiESctj47QeM/edit?usp=sharing)  |
-|  2 |  Fri, June 4              |[Guest Speaker: Andrew Rothman](https://docs.google.com/presentation/d/1dXDNMRM52d64eaZvOJ-8D4wc1rdrLtXM/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)  | [Podcast Topics](https://docs.google.com/document/d/1a7ThWiLSwucSN_HbfXv8J0Zq27ia61Gg/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) | [Homework 2](https://docs.google.com/document/d/138qDiOokoP_-xPCrz5bKjPll2lQ9x4z9MtskAorLLW8/edit?usp=sharing)  |
-|  3 |  Wed, June 9               | [Identity](https://docs.google.com/presentation/d/19nKHjxZZqhygYNHp7a50Y93uCnzjA_Epek9ArQXoaok/edit?usp=sharing)| Module 1   |  [Podcast Pitch](https://docs.google.com/document/d/1LeILM19mO6_VUA8tuheSna8T0KRezVbDDT041i_RBlQ/edit?usp=sharing), [Partner Sign Up](https://docs.google.com/document/d/1A7MfMJasiu8HvdgyAP5qaRDPFtIeWGIxiZU1qPWKY98/edit?usp=sharing) |
-|  4 |  Fri, June 11               |[Workshop on Gender Neutral Pronouns](https://docs.google.com/presentation/d/1-q2KbFJ4B9zl4zO_H2_HvQZflmwFpSsyHnRcOUO51oE/edit?usp=sharing)  | [LGBTQ Podcast](https://docs.google.com/document/d/1FF5Dnyv1fUgjwKE0hyyc6QV5B6Dt2Y1ZyxcvburTDmc/edit?usp=sharing) |
-|  5 |  Wed, June 16               |[Guest Speaker: Sonya Saturday](https://sonyasaturday.com/about) | [RD Audio Recording](https://docs.google.com/document/d/1QNw2SYoueL0-BkADI-VA1Xm5TMHtXPMs9871zkykXg8/edit?usp=sharing) |
-|  6 |  Fri, June 18               |Asynch: Podcast Pitch Presentation|  |
-|  7 |  Wed, June 23               |[Guest Speaker:Ifi Akpandak](https://docs.google.com/presentation/d/1CF36NszKXBP-8tpFuHHKeryL1dj2jnYzgbRIn2U8EyQ/edit?usp=sharing)  | [Mentee Presentation](https://docs.google.com/document/d/1LJiad1PlMWqSobLXEwjiLoh8ljAiw5hzEasfzR66SPE/edit?usp=sharing) |
-|  8 |  Fri, June 25               |[Mentorship Meeting](https://docs.google.com/presentation/d/1bIhPt97hJjKX57j3EJ4SsypOdQSHnfCT2AcMzT_Mrwo/edit?usp=sharing)  | [Inclusivity in STEM Podcast](https://docs.google.com/document/d/1DRhYMP3MnR9ivv3B9acpYQEj9vlTKyvtKXc5yDczjd0/edit?usp=sharing), [Podcast Artwork](https://docs.google.com/document/d/1vhuKvRIQIGw2pY3av9pmh_7ptwxIiIbqTz18dI5je_I/edit?usp=sharing) |
-|  9 |  Wed, June 30               | ***Individual Meetings, No Class***  | [Podcast Script](https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing) |
-|  10 |  Fri, July 2               |[Mentorship Meeting](https://docs.google.com/presentation/d/1nVVMfHfVazfU6SSmHTW8lUohkLofdF4FvhBgkKtyTh4/edit#slide=id.g8c35e40ef3_0_17) | [Microaggressions Homework](https://docs.google.com/document/d/1RUUAtybijklmpXRvIYqP7GJxr19YerDbeddYN9Ohvb4/edit?usp=sharing) |
-|  11 |  Wed, July 7               | [Microaggressions Workshop](https://docs.google.com/presentation/d/1-sFCCaRJLJe64EH1ehOPMS8gxQzU9kzQqP-0oOHhH1E/edit?usp=sharing)  | [Self Reflection](https://docs.google.com/document/d/1lirled7olWkSlGYwO42biPM5gsHp7fZD5VlAFArrsnY/edit?usp=sharing) |
-|  12 |  Fri, July 9              | Asynchronous Mentorship Meeting | Work On Podcast Script |
-|  13 |  Wed, July 14               | [Guest Speaker: DEI in STEM](https://docs.google.com/presentation/d/1M1PdKfcszk_0O85syuEw8G1TmAoKIAJ0eUjV6nuohWE/edit?usp=sharing)|  |
-|  14 |  Fri, July 16               |Asynchronous Mentorship Meeting | [Gender Podcast](https://docs.google.com/document/d/1WTBn25Dnu6rSJf1UHglyLeJ9s2cVmVH8P9OT80P3LPE/edit)  |
-|  15  |  Wed, July 21              | [Workshop:Intercultural Communication](https://docs.google.com/presentation/d/1WvFFaukDJK9flBk5OyBAsF8RJ4GhHhg3d9_EqNUrXr8/edit?usp=sharing)|  [Final Podcast](https://docs.google.com/document/d/13cB7VGzcZhOBJogfKfNX6v41s56cptOI_iWAtuNCgvs/edit)|
-|  16 |   Fri, July 23               | Mentorship Meeting | Work on Podcast |
-|  17 |   Wed, July 28               |Guest Speaker: Look what she did | Work On Podcast Presentation |
-|  18 |   Fri, July 30              | Final Class | |
+|  2 |  Fri, June 4              |[Guest Speaker: Andrew Rothman](https://docs.google.com/presentation/d/1dXDNMRM52d64eaZvOJ-8D4wc1rdrLtXM/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)  | [Podcast/Twitch Topics](https://docs.google.com/document/d/1a7ThWiLSwucSN_HbfXv8J0Zq27ia61Gg/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) | [Homework 2](https://docs.google.com/document/d/138qDiOokoP_-xPCrz5bKjPll2lQ9x4z9MtskAorLLW8/edit?usp=sharing)  |
+|  3 |  Wed, June 9               | Identity| Module 1   |  [Podcast/Twitch Pitch](https://docs.google.com/document/d/1j4nZTsLW8b42RAJ90c0vhTUv1ZXL6fGZxKwFryQ3T-4/edit?usp=sharing)  |
+|  4 |  Fri, June 11               | Workshop:Intercultural Communication  | Module 2 | [Homework 3](https://docs.google.com/document/d/10FILPb7r7pT8WnEvT9uxJWHY41EzdC8W6SyuAMp8Zs8/edit?usp=sharing)|
+|  5 |  Wed, June 16               |[Guest Speaker: Joanna Hoffman](https://docs.google.com/presentation/d/1PoO9VYpa19dQdKOhGhlHdZVO4efJ7PIq/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) | Module 3 | [RD Audio Recording](https://docs.google.com/document/d/10zxctRgPuLvgbK-8he5GAc0zBZ2p9RYW/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) |
+|  6 |  Fri, June 18               |Podcast/Twitch Pitch Presentation| Module 4 | [Homework 4](https://docs.google.com/document/d/1EJDuOivhYp16_jHS-wsmuEqmm2eqNdXG/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)
+|  7 |  Wed, June 23               |[Guest Speaker:Justin Samuels](https://docs.google.com/presentation/d/1ZuXPhZgo0d6pWcUkI9cYaaIowTx2O7-O/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)  | Module 5 | Mentee Presentation
+|  8 |  Fri, June 25               | Welcome Mentorship Meeting  | Module 6 Reflection| [Cover Art](https://docs.google.com/document/d/1ayVEZLVFNaVMrrROwgQ1YljJziRrKsU8/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) |
+|  9 |  Wed, June 30               | [Guest Speaker: AI Justice](https://docs.google.com/presentation/d/1cFOQWE8v8XloySH2dLf_6UQ0I9stTbeh/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)  | Module 7   |  [Podcast/Twitch Script](https://docs.google.com/document/d/1QTyhClSws9X2dwkWFz71KQK2vgS9myec/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) |
+|  10 |  Fri, July 2               | Mentorship Meeting | Module 8 Reflection | [Homework 5](https://docs.google.com/document/d/1LXdt9-v7lOJgqUXQi0Z3TuYg9YlLoWiFRmdygPREGjY/edit?usp=sharing) |
+|  11 |  Wed, July 7               | [Microaggressions Workshop](https://docs.google.com/presentation/d/1fzIUL0Qjwkp7AiACSQf8c6i1AOgTJU0I/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)  | Module 9 | [Self Reflection](https://docs.google.com/document/d/1TGYgP09omcYOpZlagGwn1O_17TfpwAZ_odobB_fbEzs/edit?usp=sharing) |
+|  12 |  Fri, July 9              | Mentorship Meeting | Module 10 Reflection| Work On Podcast/Twitch Script |
+|  13 |  Wed, July 14               | [DEI Being an Ally](https://docs.google.com/presentation/d/1lj5hUwoBNtYXee2Z3cfLEXwRsISMNorv/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) | Module 11 | [Peer Review](https://docs.google.com/document/d/1c_E0eZZkD8ZhKd1K0oT-mbF32-z67RjW/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)  |
+|  14 |  Fri, July 16               | Mentorship Meeting | Module 11 Reflection | [Homework 6](https://docs.google.com/document/d/1Sk8b5aJ1HmK2Y2tCg4bjQJ6hP32nks8HJQqV7Blam8o/edit?usp=sharing)  |
+|  15  |  Wed, July 21              | Workshop on Gender Neutral Pronouns| Module 12 | [Final Podcast/Twitch](https://docs.google.com/document/d/1kDI98vcNpYf1kq-e79qVUmPdyDxOk8mD/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)|
+|  16 |   Fri, July 23               | Mentorship Meeting | Module 13 Reflection | [Homework 7](https://docs.google.com/document/d/1Sk8b5aJ1HmK2Y2tCg4bjQJ6hP32nks8HJQqV7Blam8o/edit?usp=sharing) |
+|  17 |   Wed, July 28               |[Engineering Peace](https://docs.google.com/presentation/d/1XJHf90bHdTDV_pytKikZPjOOAKvjnEEk/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)|  Module 14  |  [Podcast/Twitch Presentation](https://docs.google.com/document/d/1kDI98vcNpYf1kq-e79qVUmPdyDxOk8mD/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) |
+|  18 |   Fri, July 30              | Final Class Presentations| Mentorship Goodbyes |
 
 
 
@@ -87,13 +87,15 @@ All assignments are due **before class** on the due date stated
 
 | Assignment            |          Date Assigned        |                 Due Date                           |
 |:------------------------------:|:----------------------:|:----------------------------------------:|
-|  [Podcast Pitch](https://docs.google.com/document/d/1LeILM19mO6_VUA8tuheSna8T0KRezVbDDT041i_RBlQ/edit?usp=sharing)              | June 9th |    June 18th |
-|  [RD Audio Recording](https://docs.google.com/document/d/1QNw2SYoueL0-BkADI-VA1Xm5TMHtXPMs9871zkykXg8/edit?usp=sharing)              | June 16th  | June 23rd   |
-|  [Podcast Artwork](https://docs.google.com/document/d/1vhuKvRIQIGw2pY3av9pmh_7ptwxIiIbqTz18dI5je_I/edit?usp=sharing)              | June 25th   | July 2nd   |
-|  [Podcast Script](https://docs.google.com/document/d/1EQWLmagsbPzK49lPXtTRnIVM-I9qnNbA-O2YjrANqDI/edit?usp=sharing)              | June 30th | July 14th  |
-|  [Self Reflection](https://docs.google.com/document/d/1lirled7olWkSlGYwO42biPM5gsHp7fZD5VlAFArrsnY/edit?usp=sharing)              | July 7th  | July 9th  |
-|  [Final Podcast](https://docs.google.com/document/d/13cB7VGzcZhOBJogfKfNX6v41s56cptOI_iWAtuNCgvs/edit?usp=sharing)              | July 21st  | July 30th |
-| Weekly Podcast Homework | See Asynchronous Activities above|
+|  [Podcast/Twitch Pitch](https://docs.google.com/document/d/1j4nZTsLW8b42RAJ90c0vhTUv1ZXL6fGZxKwFryQ3T-4/edit?usp=sharing)              | June 9th |    June 18th |
+|  [RD Audio Recording](https://docs.google.com/document/d/10zxctRgPuLvgbK-8he5GAc0zBZ2p9RYW/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)              | June 16th  | June 23rd   |
+|  [Cover Art](https://docs.google.com/document/d/1ayVEZLVFNaVMrrROwgQ1YljJziRrKsU8/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)              | June 25th   | July 2nd   |
+|  [Podcast/Twitch Script](https://docs.google.com/document/d/1QTyhClSws9X2dwkWFz71KQK2vgS9myec/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)              | June 30th | July 14th  |
+|  [Self Reflection](https://docs.google.com/document/d/1TGYgP09omcYOpZlagGwn1O_17TfpwAZ_odobB_fbEzs/edit?usp=sharing)              | July 7th  | July 9th  |
+| [Peer Review](https://docs.google.com/document/d/1c_E0eZZkD8ZhKd1K0oT-mbF32-z67RjW/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)   | July 14   | July 16|
+|  [Final Podcast/Twitch](https://docs.google.com/document/d/1kDI98vcNpYf1kq-e79qVUmPdyDxOk8mD/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true)              | July 21st  | July 30th |
+| Weekly Podcast Homework | *See Homework above*|
+| Weekly Modules |  *See Asynchronous Activities above* |
 
 
 
@@ -120,10 +122,10 @@ To pass this course you must meet the following requirements:
 | Assignments |          Weight         |                 Minimum Rubric Score                          |
 |:-----:|:----------------------:|:----------------------------------------------:|
 |**Participation**: Attendance, active participation in zoom and in class google docs; online asynchronous assignments, and reflections. Participation points will be allocated on a weekly basis.  |  10%  |  N/A  |
-|**Self Reflection Paper**: Students will give feedback and write one reflective paper based on their experience as a mentor. Students are expected to meet a minimum score of 3-4 on the [Written Communication Rubric](https://docs.google.com/document/d/1PN3V1n98qKjTT2U4kRDOWmDIAzenPIdwsp40xeSVTNI/edit?usp=sharing). |  10%  |  3-4  |
-|**Mentorship meetings**: Students must participate in weekly virtual meetings with students in Make School summer academy in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings.  |  20%  |  N/A  |
-|**Presentations**: Students will present to mentees and classmates.   Students are expected to meet a minimum score of 3-4 on the [Oral Communication Rubric](https://docs.google.com/document/d/1S2ST7b6a5z0gJga-BL7oiJ0mvXwIPHIuRyU8dw91iOs/edit?usp=sharing) |  20%  |  3-4  |
-|**Final Podcast**: Group Podcast on topics discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 3-4 on the [Digital Project Rubric](https://docs.google.com/document/d/1rJHId-BlEjw0wlePl6-OnLXiBqVAeo3chlIfGaGODKg/edit) |  40%  |  3-4  |
+|**Self Reflection Paper**: Students will give feedback and write one reflective paper about personal growth. Students are expected to meet a minimum score of 3-4 on the [Written Communication Rubric](https://docs.google.com/document/d/18isv83H2pV-GfPMwRwoxvuQDHtr9QssK/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true). |  10%  |  3-4  |
+|**Mentorship meetings**: Students must participate in weekly virtual meetings with students in Make School Summer Academy in order to pass the course.  Students must come prepared with all necessary materials needed for the designated meetings. Students must complete weekly asynchronous reflection modules post mentorship meetings  |  20%  |  N/A  |
+|**Presentations**: Students will present to mentees and classmates.   Students are expected to meet a minimum score of 3-4 on the [Oral Communication Rubric](https://docs.google.com/document/d/1x4f4GjzmT1StEmEatSXO9KIb5EjsburE/edit?usp=sharing&ouid=103840187175806137741&rtpof=true&sd=true) |  20%  |  3-4  |
+|**Final Podcast/Twitch Stream,**: Group Podcast/Twith streams on a topic discussed by guest speakers, class readings, and personal experiences.  Students are expected to meet a minimum score of 3-4 on the [Digital Project Rubric](https://docs.google.com/document/d/1rJHId-BlEjw0wlePl6-OnLXiBqVAeo3chlIfGaGODKg/edit) |  40%  |  3-4  |
 
 ***[Code of Conduct, Equity, and Inclusion](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.x0jvq6l5kdwl)***
 
